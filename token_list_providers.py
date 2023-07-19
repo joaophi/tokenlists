@@ -472,7 +472,7 @@ tokenlists_providers = [
     SpookySwap,
     Optimism,
     ArbitrumBridge,
-    TraderJoe,
+    #TraderJoe,
     Pangolin,
     PancakeSwap,
     MojitoSwap,
