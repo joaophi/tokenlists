@@ -84,18 +84,6 @@
         ]
     },
     {
-        "symbol": "MLR",
-        "name": "Mega Lottery Services Global",
-        "address": "0x5080781e91237b6D7f026D5306b7233e26Cd6C16",
-        "decimals": 18,
-        "chainId": 88,
-        "logoURI": "https://assets.coingecko.com/coins/images/11072/thumb/gg1NiOsG_400x400.jpg?1587958538",
-        "coingeckoId": "mega-lottery-services-global",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "address": "0x503B2dDc059b81788FD1239561596614b27fAADE",

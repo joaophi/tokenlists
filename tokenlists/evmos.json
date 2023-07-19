@@ -1,24 +1,11 @@
 [
     {
-        "symbol": "G-USDT",
-        "name": "Gravity Bridge Tether",
-        "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
-        "decimals": 6,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28170/thumb/gusdt.png?1668243861",
-        "coingeckoId": "gravity-bridge-tether",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "FXS",
         "name": "Frax Share",
         "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png?1608478989",
+        "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/Frax_Shares_icon.png?1679886947",
         "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
@@ -39,19 +26,6 @@
         ]
     },
     {
-        "symbol": "G-WETH",
-        "name": "Gravity Bridge WETH",
-        "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28174/thumb/gweth.png?1668246159",
-        "coingeckoId": "gravity-bridge-weth",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "CEWBTC",
         "name": "Wrapped Bitcoin   Celer",
         "address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
@@ -65,15 +39,29 @@
         ]
     },
     {
+        "symbol": "ACRE",
+        "name": "Arable Protocol",
+        "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/23659/thumb/acre_token-02.png?1644989289",
+        "coingeckoId": "arable-protocol",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "OSMO",
         "name": "Osmosis",
         "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/16724/thumb/osmo.png?1632763885",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864/logo_24.png",
         "coingeckoId": "osmosis",
         "listedIn": [
             "coingecko",
+            "pangolin",
             "lifinance"
         ]
     },
@@ -96,7 +84,7 @@
         "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
+        "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/FRAX_icon.png?1679886922",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
@@ -109,10 +97,11 @@
         "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/24023/thumb/evmos.png?1653958927",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xD4949664cD82660AaE99bEdc034a0deA8A0bd517/logo_24.png",
         "coingeckoId": "evmos",
         "listedIn": [
             "coingecko",
+            "pangolin",
             "lifinance"
         ]
     },
@@ -122,10 +111,11 @@
         "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/1481/thumb/cosmos_hub.png?1555657960",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6/logo_24.png",
         "coingeckoId": "cosmos",
         "listedIn": [
             "coingecko",
+            "pangolin",
             "lifinance"
         ]
     },
@@ -213,7 +203,7 @@
         "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/19249/thumb/juno.png?1642838082",
+        "logoURI": "https://assets.coingecko.com/coins/images/19249/thumb/Juno_Logo_%28Salmon%29_%282%29.png?1676455333",
         "coingeckoId": "juno-network",
         "listedIn": [
             "coingecko",
@@ -221,28 +211,16 @@
         ]
     },
     {
-        "symbol": "G-WBTC",
-        "name": "Gravity Bridge WBTC",
-        "address": "0x1D54EcB8583Ca25895c512A8308389fFD581F9c9",
-        "decimals": 8,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28172/thumb/gwbtc.png?1668244896",
-        "coingeckoId": "gravity-bridge-wbtc",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "AXLUSDC",
-        "name": "axlUSDC",
+        "name": "Axelar USDC",
         "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57/logo_24.png",
         "coingeckoId": "axlusdc",
         "listedIn": [
             "coingecko",
+            "pangolin",
             "lifinance"
         ]
     },
@@ -254,19 +232,6 @@
         "chainId": 9001,
         "logoURI": "https://assets.coingecko.com/coins/images/24827/thumb/weth.png?1649047091",
         "coingeckoId": "wrapped-ether-celer",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "CRN",
-        "name": "Cronus Finance",
-        "address": "0x1488346419FFc85C6D54E71be80a222971fb2240",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/24022/thumb/h8GHzr2W_400x400.jpg?1646096205",
-        "coingeckoId": "cronus-finance",
         "listedIn": [
             "coingecko",
             "lifinance"
