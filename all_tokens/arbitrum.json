@@ -1371,6 +1371,18 @@
         ]
     },
     {
+        "symbol": "SDEX",
+        "name": "SmarDex",
+        "address": "0xabD587f2607542723b17f14d00d99b987C29b074",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/29470/thumb/logo_200x200.png?1679128820",
+        "coingeckoId": "smardex",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "1MB",
         "name": "1minBET",
         "address": "0xab9ec601B82a22fBF2b030Ac0Dd7c1C34F52FA04",

@@ -8028,7 +8028,7 @@
         "decimals": 9,
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/14360/thumb/hoge.jpg?1615641604",
-        "coingeckoId": "hoge-finance",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -8538,6 +8538,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/29810/thumb/logo.png?1681431840",
         "coingeckoId": "alphabet",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SDEX",
+        "name": "SmarDex",
+        "address": "0xFdc66A08B0d0Dc44c17bbd471B88f49F50CdD20F",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/29470/thumb/logo_200x200.png?1679128820",
+        "coingeckoId": "smardex",
         "listedIn": [
             "coingecko"
         ]
@@ -17537,7 +17549,7 @@
         "decimals": 9,
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/29201/thumb/200x200.PNG?1677307307",
-        "coingeckoId": "rottoken",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
