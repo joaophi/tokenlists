@@ -476,7 +476,7 @@ tokenlists_providers = [
     Pangolin,
     PancakeSwap,
     MojitoSwap,
-    RubicLists,
+    #RubicLists,
     Lifinance,
     XyFinance,
     ElkFinanceTokenLists,
