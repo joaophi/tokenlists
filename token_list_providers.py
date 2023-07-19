@@ -421,7 +421,7 @@ class TraderJoe(TokenListProvider):
 
 class ArbitrumBridge(TokenListProvider):
     name = "arbitrum_bridge"
-    base_url = "https://bridge.arbitrum.io/token-list-42161.json"
+    base_url = "https://tokenlist.arbitrum.io/ArbTokenLists/arbed_arb_whitelist_era.json"
 
     chains = {"42161": "42161", "1": "1"}
 
