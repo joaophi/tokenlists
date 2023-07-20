@@ -455,7 +455,8 @@
             "coingecko",
             "1inch",
             "openocean",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -998,10 +999,11 @@
         "address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/2090/thumb/rocket_pool_%28RPL%29.png?1637662441",
+        "logoURI": "https://tokens.1inch.io/0xb766039cc6db368759c1e56b79affe831d0cc507.png",
         "coingeckoId": "rocket-pool",
         "listedIn": [
             "coingecko",
+            "1inch",
             "lifinance"
         ]
     },

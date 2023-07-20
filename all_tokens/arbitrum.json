@@ -1331,7 +1331,8 @@
             "coingecko",
             "1inch",
             "openocean",
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -2834,10 +2835,11 @@
         "address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/2090/thumb/rocket_pool_%28RPL%29.png?1637662441",
+        "logoURI": "https://tokens.1inch.io/0xb766039cc6db368759c1e56b79affe831d0cc507.png",
         "coingeckoId": "rocket-pool",
         "listedIn": [
             "coingecko",
+            "1inch",
             "lifinance"
         ]
     },
@@ -7043,6 +7045,18 @@
         ]
     },
     {
+        "symbol": "CRUIZE",
+        "name": "Cruize Finance",
+        "address": "0x232bAF8CFc14520140c3686FbAb53Fa596a50552",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/26181/thumb/_KjiKgiG_400x400.jpeg?1669111982",
+        "coingeckoId": "cruize-finance",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ELSD",
         "name": "ELSD Coin",
         "address": "0x22aB6bC52CAD84AAe84bD5781258677a6E0cFaB0",
@@ -8016,6 +8030,18 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/14244/thumb/aWBTC.41453c2a.png?1615528721",
         "coingeckoId": "aave-wbtc",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "YURI",
+        "name": "Yuri",
+        "address": "0x077BC655C8d81b7dE71c79318D0eB8F987E12820",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/31032/thumb/Yuri_logo_200x200.jpg?1689839862",
+        "coingeckoId": "yuri",
         "listedIn": [
             "coingecko"
         ]

@@ -1067,7 +1067,8 @@
                 "coingecko",
                 "1inch",
                 "openocean",
-                "lifinance"
+                "lifinance",
+                "xyfinance"
             ]
         },
         {
@@ -1610,10 +1611,11 @@
             "address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
             "decimals": 18,
             "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/2090/thumb/rocket_pool_%28RPL%29.png?1637662441",
+            "logoURI": "https://tokens.1inch.io/0xb766039cc6db368759c1e56b79affe831d0cc507.png",
             "coingeckoId": "rocket-pool",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "lifinance"
             ]
         },
@@ -7681,9 +7683,8 @@
             "decimals": 18,
             "chainId": 56,
             "logoURI": "https://tokens.1inch.io/0xcd1faff6e578fa5cac469d2418c95671ba1a62fe.png",
-            "coingeckoId": "torum",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "openocean",
                 "lifinance"
@@ -17278,9 +17279,10 @@
             "address": "0x0034719300501B06E10Ebb1D07ea5967301F0941",
             "decimals": 6,
             "chainId": 56,
-            "logoURI": "https://tokens.pancakeswap.finance/images/0x0034719300501B06E10Ebb1D07ea5967301F0941.png",
+            "logoURI": "https://tokens.1inch.io/0x0034719300501b06e10ebb1d07ea5967301f0941.png",
             "coingeckoId": null,
             "listedIn": [
+                "1inch",
                 "pancake",
                 "lifinance"
             ]
@@ -46605,9 +46607,8 @@
             "decimals": 18,
             "chainId": 1,
             "logoURI": "https://tokens.1inch.io/0xcd1faff6e578fa5cac469d2418c95671ba1a62fe.png",
-            "coingeckoId": "torum",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "lifinance"
             ]
