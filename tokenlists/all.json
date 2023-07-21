@@ -3138,6 +3138,19 @@
             ]
         },
         {
+            "symbol": "L2DAO",
+            "name": "Layer2DAO",
+            "address": "0x2CaB3abfC1670D1a452dF502e216a66883cDf079",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/23699/thumb/Khp7Y4Sn.png?1645081048",
+            "coingeckoId": "layer2dao",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "LPT",
             "name": "Livepeer",
             "address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
@@ -6320,6 +6333,19 @@
             "coingeckoId": "avaocado-dao",
             "listedIn": [
                 "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "STABLE",
+            "name": "STABLE",
+            "address": "0xa3870fbBeb730BA99e4107051612af3465CA9F5e",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://s3.openocean.finance/token_logos/logos/1687172014042_9624216147947688.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "openocean",
                 "lifinance"
             ]
         },
@@ -16383,6 +16409,19 @@
             ]
         },
         {
+            "symbol": "USDFI",
+            "name": "USDFI",
+            "address": "0x11A38e06699b238D6D9A0C7A01f3AC63a07ad318",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://s3.openocean.finance/token_logos/logos/1687258481374_8229506030200269.jpg",
+            "coingeckoId": null,
+            "listedIn": [
+                "openocean",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "1INCH",
             "name": "1inch",
             "address": "0x111111111117dC0aa78b770fA6A738034120C302",
@@ -22585,6 +22624,19 @@
             "coingeckoId": null,
             "listedIn": [
                 "optimism",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "L2DAO",
+            "name": "Layer2DAO",
+            "address": "0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44",
+            "decimals": 18,
+            "chainId": 10,
+            "logoURI": "https://assets.coingecko.com/coins/images/23699/thumb/Khp7Y4Sn.png?1645081048",
+            "coingeckoId": "layer2dao",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -29955,10 +30007,11 @@
             "address": "0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007",
             "decimals": 18,
             "chainId": 137,
-            "logoURI": "https://assets.coingecko.com/coins/images/25428/thumb/TNGBL.png?1680245736",
+            "logoURI": "https://tokens.1inch.io/0x49e6a20f1bbdfeec2a8222e052000bbb14ee6007.png",
             "coingeckoId": "tangible",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "lifinance"
             ]
         },
@@ -40608,10 +40661,11 @@
             "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
             "decimals": 18,
             "chainId": 100,
-            "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443",
+            "logoURI": "https://tokens.1inch.io/0x6c76971f98945ae98dd7d4dfca8711ebea946ea6.png",
             "coingeckoId": "wrapped-steth",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "lifinance"
             ]
         },
