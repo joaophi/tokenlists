@@ -3132,6 +3132,19 @@
             ]
         },
         {
+            "symbol": "CRUIZE",
+            "name": "Cruize Finance",
+            "address": "0x232bAF8CFc14520140c3686FbAb53Fa596a50552",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/26181/thumb/_KjiKgiG_400x400.jpeg?1669111982",
+            "coingeckoId": "cruize-finance",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "DERI",
             "name": "Deri Protocol",
             "address": "0x21E60EE73F17AC0A411ae5D690f908c3ED66Fe12",
@@ -28643,7 +28656,7 @@
         },
         {
             "symbol": "APW",
-            "name": "APWine",
+            "name": "Spectra",
             "address": "0x6C0AB120dBd11BA701AFF6748568311668F63FE0",
             "decimals": 18,
             "chainId": 137,
