@@ -280,7 +280,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1648801885630_9658702907022438.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -604,7 +605,8 @@
         "coingeckoId": "aave-weth",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -1155,18 +1157,6 @@
         "listedIn": [
             "1inch",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "BETS",
-        "name": "BetSwirl",
-        "address": "0xc763f8570A48c4c00C80B76107cbE744dDa67b79",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1659073275",
-        "coingeckoId": "betswirl",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -2063,6 +2053,7 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2376,7 +2367,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1638963262869_334559632639281.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -2886,7 +2878,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1646218584742_47622400801306086.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -3244,7 +3237,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1634806070088_48027228841072933.jpeg",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -3517,7 +3511,8 @@
         "coingeckoId": "xen-crypto",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -4097,7 +4092,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1645065656628_4353546372297692.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -4266,6 +4262,7 @@
         "listedIn": [
             "coingecko",
             "openocean",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -4303,7 +4300,8 @@
         "coingeckoId": "yearn-finance",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -4797,7 +4795,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1643719344123_41268550283451755.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -4849,6 +4848,18 @@
             "coingecko",
             "pangolin",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "BETS",
+        "name": "BetSwirl",
+        "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1659073275",
+        "coingeckoId": "betswirl",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -4926,7 +4937,8 @@
         "coingeckoId": "snowtomb-lot",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -5042,7 +5054,8 @@
         "coingeckoId": "uniswap",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -5528,7 +5541,8 @@
         "coingeckoId": "aave-dai",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -5679,7 +5693,8 @@
         "coingeckoId": "snowbank",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -6410,7 +6425,8 @@
         "coingeckoId": "aave-usdt",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -6525,7 +6541,8 @@
         "coingeckoId": "storm-token",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -6876,7 +6893,8 @@
         "coingeckoId": "aave-usdc",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -7303,7 +7321,8 @@
         "coingeckoId": "vector-finance",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -7388,7 +7407,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1640172932821_9120856902758341.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -7528,7 +7548,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1635754380046_7659663962089835.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -9083,7 +9104,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1640318459223_9295976235790222.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -10033,7 +10055,8 @@
         "coingeckoId": "aave-link",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -10664,7 +10687,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1647685241637_4302493200865387.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -10689,7 +10713,8 @@
         "coingeckoId": "aave-wbtc",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
