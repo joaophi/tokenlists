@@ -788,6 +788,7 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -974,6 +975,7 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2656,7 +2658,8 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1680248476269_8826609171616437.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -3018,14 +3021,13 @@
     },
     {
         "symbol": "PAN",
-        "name": "Panvala Pan",
+        "name": "Panvala pan on xDai",
         "address": "0x981fB9BA94078a2275A8fc906898ea107B9462A8",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xd56dac73a4d6766464b38ec6d91eb45ce7457c44.png",
-        "coingeckoId": "panvala-pan",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance",
             "elkfinance"
@@ -3361,6 +3363,7 @@
         "listedIn": [
             "coingecko",
             "openocean",
+            "lifinance",
             "elkfinance"
         ]
     },
