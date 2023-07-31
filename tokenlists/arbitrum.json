@@ -38,21 +38,7 @@
         "coingeckoId": "tlpt",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "CARBON",
-        "name": "Carboncoin",
-        "address": "0xfa42DA1bd08341537a44a4ca9D236D1c00A98b40",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1637832686338_7422730180325647.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -274,19 +260,6 @@
         ]
     },
     {
-        "symbol": "ROSX",
-        "name": "Roseon",
-        "address": "0xd6c0156E85deCdF2983c7A2c4A3015eD268d6f8A",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1680604488324_033559270498115135.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SUSHI",
         "name": "Sushi",
         "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
@@ -439,8 +412,7 @@
         "coingeckoId": "swapfish",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -524,8 +496,7 @@
         "coingeckoId": "vesta-finance",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -780,19 +751,6 @@
         ]
     },
     {
-        "symbol": "RENBTC",
-        "name": "renBTC",
-        "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
-        "decimals": 8,
-        "chainId": 42161,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1661151044584_6641692875412855.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "DAI",
         "name": "Dai",
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
@@ -861,8 +819,7 @@
         "coingeckoId": "arbitrum-exchange",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -1085,8 +1042,7 @@
         "coingeckoId": "ramses-exchange",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -1204,19 +1160,6 @@
         ]
     },
     {
-        "symbol": "XDO",
-        "name": "xDollar",
-        "address": "0x9eF758aC000a354479e538B8b2f01b917b8e89e7",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1637831645816_6024340081244819.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "FXS",
         "name": "Frax Share",
         "address": "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7",
@@ -1330,8 +1273,7 @@
         "coingeckoId": "nitro-cartel",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -1373,8 +1315,7 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
@@ -1402,8 +1343,7 @@
         "coingeckoId": "staked-frax-ether",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -1620,8 +1560,7 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
@@ -1830,8 +1769,7 @@
         "coingeckoId": "usdd",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -1902,8 +1840,7 @@
         "coingeckoId": "sterling-finance",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -1957,8 +1894,7 @@
         "coingeckoId": "mmfinance-arbitrum",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2117,8 +2053,7 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
@@ -2158,8 +2093,7 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
@@ -2185,8 +2119,7 @@
         "coingeckoId": "solidlizard",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2215,8 +2148,7 @@
         "coingeckoId": "hegic",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2256,8 +2188,7 @@
         "coingeckoId": "camelot-token",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2270,8 +2201,7 @@
         "coingeckoId": "milady-meme-coin",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2363,8 +2293,7 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "dfyn",
-            "lifinance"
+            "dfyn"
         ]
     },
     {
@@ -2377,8 +2306,7 @@
         "coingeckoId": "kujira",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2438,8 +2366,7 @@
         "coingeckoId": "xdollar-stablecoin",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2548,8 +2475,7 @@
         "coingeckoId": "livepeer",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2669,8 +2595,7 @@
         "coingeckoId": "ibuffer-token",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2728,8 +2653,7 @@
         "coingeckoId": "frax-ether",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2982,8 +2906,7 @@
         "coingeckoId": "arbdoge-ai",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -3030,19 +2953,6 @@
         ]
     },
     {
-        "symbol": "QSD",
-        "name": " QIAN second generation dollar",
-        "address": "0x07AaA29E63FFEB2EBf59B33eE61437E1a91A3bb2",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1637832211908_8528681646600584.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "LYRA",
         "name": "Lyra Finance",
         "address": "0x079504b86d38119F859c4194765029F692b7B7aa",
@@ -3067,8 +2977,7 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
