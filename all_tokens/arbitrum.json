@@ -3799,18 +3799,6 @@
         ]
     },
     {
-        "symbol": "GG",
-        "name": "Gud Guess",
-        "address": "0x9306f15e4CD8ab9ef017Aa720A4a63da73418d00",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/29828/thumb/gg-logo.png?1681973606",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "ARB",
         "name": "Arbitrum",
         "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",

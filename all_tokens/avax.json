@@ -10554,18 +10554,6 @@
         ]
     },
     {
-        "symbol": "GM",
-        "name": "GhostMarket",
-        "address": "0x0B53b5dA7d0F275C31a6A182622bDF02474aF253",
-        "decimals": 8,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/22765/thumb/gm.png?1642574907",
-        "coingeckoId": "ghostmarket",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "TRUST",
         "name": "TRUST DAO",
         "address": "0x0B483a7E8119d9f9FbFF4a86cd751c51B6a81af9",
