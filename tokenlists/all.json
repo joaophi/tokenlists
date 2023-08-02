@@ -5441,19 +5441,6 @@
             ]
         },
         {
-            "symbol": "GEO",
-            "name": "GeoDB",
-            "address": "0xc342774492b54ce5F8ac662113ED702Fc1b34972",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/11130/thumb/geodb.png?1588941704",
-            "coingeckoId": "geodb",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "BTS",
             "name": "Bolt Share",
             "address": "0xc2e1acef50aE55661855E8dcB72adB182A3cC259",
@@ -17353,19 +17340,6 @@
             ]
         },
         {
-            "symbol": "SPE",
-            "name": "SpadeFinance Token",
-            "address": "0xf338704c74212D152cB41CeC1DB11E2E783Bcf94",
-            "decimals": 18,
-            "chainId": 66,
-            "logoURI": "https://s3.openocean.finance/token_logos/logos/okex/0xf338704c74212d152cb41cec1db11e2e783bcf94.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "openocean",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "OKB",
             "name": "OKB",
             "address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
@@ -17464,8 +17438,7 @@
             "coingeckoId": "oec-chainlink",
             "listedIn": [
                 "coingecko",
-                "openocean",
-                "lifinance"
+                "openocean"
             ]
         },
         {
@@ -17482,19 +17455,6 @@
                 "openocean",
                 "lifinance",
                 "elkfinance"
-            ]
-        },
-        {
-            "symbol": "KST",
-            "name": "KSwapToken",
-            "address": "0xab0d1578216A545532882e420A8C61Ea07B00B12",
-            "decimals": 18,
-            "chainId": 66,
-            "logoURI": "https://s3.openocean.finance/token_logos/logos/okex/0xab0d1578216a545532882e420a8c61ea07b00b12.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "openocean",
-                "lifinance"
             ]
         },
         {
@@ -17545,32 +17505,6 @@
             ]
         },
         {
-            "symbol": "pUSDT",
-            "name": "WePiggy USDT",
-            "address": "0xADf040519FE24bA9Df6670599B2dE7FD6049772f",
-            "decimals": 8,
-            "chainId": 66,
-            "logoURI": "https://s3.openocean.finance/token_logos/logos/okex/0xadf040519fe24ba9df6670599b2de7fd6049772f.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "openocean",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "XRPK",
-            "name": "XRPK",
-            "address": "0xA715f624EB32c6C960b0E044B10CDe585d5f5984",
-            "decimals": 18,
-            "chainId": 66,
-            "logoURI": "https://s3.openocean.finance/token_logos/logos/okex/0xa715f624eb32c6c960b0e044b10cde585d5f5984.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "openocean",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "BLADE",
             "name": "BladeWarrior",
             "address": "0xA07403C1Bd0C5cF53DF07F15fAA589241352527B",
@@ -17581,7 +17515,6 @@
             "listedIn": [
                 "coingecko",
                 "openocean",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -17671,19 +17604,6 @@
             ]
         },
         {
-            "symbol": "COOK",
-            "name": "Poly-Peg COOK",
-            "address": "0x7f1ae1C42f5f967c0E1ABa3ed7b6D62f88BE4275",
-            "decimals": 18,
-            "chainId": 66,
-            "logoURI": "https://s3.openocean.finance/token_logos/logos/okex/0x7f1ae1c42f5f967c0e1aba3ed7b6d62f88be4275.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "openocean",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "WING",
             "name": "Wing Token",
             "address": "0x7A47ab305b8a2A3F4020d13FA9EF73cDdCc0e7D4",
@@ -17721,7 +17641,6 @@
             "listedIn": [
                 "coingecko",
                 "openocean",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -17787,19 +17706,6 @@
             ]
         },
         {
-            "symbol": "STK",
-            "name": "Super Three Kingdoms",
-            "address": "0x3E259bfe720093ABb26A2c3fE57670259B2ebeA2",
-            "decimals": 12,
-            "chainId": 66,
-            "logoURI": "https://s3.openocean.finance/token_logos/logos/okex/0x3e259bfe720093abb26a2c3fe57670259b2ebea2.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "openocean",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "USDT",
             "name": "Tether",
             "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
@@ -17827,7 +17733,6 @@
             "listedIn": [
                 "coingecko",
                 "openocean",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -17846,19 +17751,6 @@
             ]
         },
         {
-            "symbol": "ACMD",
-            "name": "ACMD TOKEN",
-            "address": "0x2f8eB6F75Df534C4992Ec79d9825C5eA4b1b2A57",
-            "decimals": 18,
-            "chainId": 66,
-            "logoURI": "https://s3.openocean.finance/token_logos/logos/okex/0x2f8eb6f75df534c4992ec79d9825c5ea4b1b2a57.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "openocean",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "OFI",
             "name": "OFI cash",
             "address": "0x2E2f982c3e66Db8604B0A99862dD97D31ed740B3",
@@ -17868,8 +17760,7 @@
             "coingeckoId": "ofi-cash",
             "listedIn": [
                 "coingecko",
-                "openocean",
-                "lifinance"
+                "openocean"
             ]
         },
         {
@@ -17913,21 +17804,7 @@
             "listedIn": [
                 "coingecko",
                 "openocean",
-                "lifinance",
                 "elkfinance"
-            ]
-        },
-        {
-            "symbol": "KOA",
-            "name": "Koala Token",
-            "address": "0x2168795125D44653E0b858b5F6DCc86d719b6A36",
-            "decimals": 18,
-            "chainId": 66,
-            "logoURI": "https://s3.openocean.finance/token_logos/logos/okex/0x2168795125d44653e0b858b5f6dcc86d719b6a36.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "openocean",
-                "lifinance"
             ]
         },
         {
@@ -17941,7 +17818,6 @@
             "listedIn": [
                 "coingecko",
                 "openocean",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -17982,7 +17858,6 @@
             "listedIn": [
                 "coingecko",
                 "openocean",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -23376,10 +23251,11 @@
             "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
             "decimals": 18,
             "chainId": 10,
-            "logoURI": "https://s3.openocean.finance/token_logos/logos/1656664301096_4133387415807357.jpg",
+            "logoURI": "https://tokens.1inch.io/0x9560e827af36c94d2ac33a39bce1fe78631088db.png",
             "coingeckoId": "velodrome-finance",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "openocean"
             ]
         },
@@ -23484,6 +23360,7 @@
             "coingeckoId": "collab-land",
             "listedIn": [
                 "coingecko",
+                "openocean",
                 "optimism",
                 "lifinance"
             ]
@@ -27019,6 +26896,19 @@
                 "dfyn",
                 "lifinance",
                 "xyfinance"
+            ]
+        },
+        {
+            "symbol": "RETRO",
+            "name": "Retro Finance",
+            "address": "0xBFA35599c7AEbb0dAcE9b5aa3ca5f2a79624D8Eb",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://s3.openocean.finance/token_logos/logos/1690944074418_9885278544632408.jpg",
+            "coingeckoId": "retro-finance",
+            "listedIn": [
+                "coingecko",
+                "openocean"
             ]
         },
         {
@@ -31668,9 +31558,8 @@
             "decimals": 18,
             "chainId": 137,
             "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64/logo.png",
-            "coingeckoId": "liquid-icp",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "sushiswap",
                 "lifinance"
             ]
@@ -41468,6 +41357,19 @@
             ]
         },
         {
+            "symbol": "UNIBOT",
+            "name": "Unibot",
+            "address": "0xf819d9Cb1c2A819Fd991781A822dE3ca8607c3C9",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://s3.openocean.finance/token_logos/logos/1690956627154_9094476304137329.png",
+            "coingeckoId": "unibot",
+            "listedIn": [
+                "coingecko",
+                "openocean"
+            ]
+        },
+        {
             "symbol": "BFLY",
             "name": "Butterfly Protocol",
             "address": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
@@ -43645,6 +43547,19 @@
                 "coingecko",
                 "openocean",
                 "arbitrum_bridge"
+            ]
+        },
+        {
+            "symbol": "LOOT",
+            "name": "LootBot",
+            "address": "0xb478c6245e3D85D6EC3486B62ea872128d562541",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://s3.openocean.finance/token_logos/logos/1690956590427_6744240352128519.png",
+            "coingeckoId": "lootbot",
+            "listedIn": [
+                "coingecko",
+                "openocean"
             ]
         },
         {
@@ -50724,19 +50639,6 @@
             ]
         },
         {
-            "symbol": "BNPL",
-            "name": "BNPL Pay",
-            "address": "0x84d821F7FbDD595c4C4A50842913e6b1E07d7a53",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x84d821F7FbDD595c4C4A50842913e6b1E07d7a53/logo.png",
-            "coingeckoId": "bnpl-pay",
-            "listedIn": [
-                "coingecko",
-                "sushiswap"
-            ]
-        },
-        {
             "symbol": "DEFIT",
             "name": "DIGITAL FITNESS",
             "address": "0x84cffa78B2fBbeeC8c37391d2B12A04d2030845e",
@@ -53161,6 +53063,19 @@
                 "coingecko",
                 "1inch",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "TET",
+            "name": "Tectum",
+            "address": "0x68A47Fe1CF42eBa4a030a10CD4D6a1031Ca3CA0a",
+            "decimals": 8,
+            "chainId": 1,
+            "logoURI": "https://s3.openocean.finance/token_logos/logos/1690946961572_32555751148955236.JPG",
+            "coingeckoId": "tectum",
+            "listedIn": [
+                "coingecko",
+                "openocean"
             ]
         },
         {
@@ -57964,11 +57879,10 @@
             "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
             "decimals": 8,
             "chainId": 1,
-            "logoURI": "https://tokens.1inch.io/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39.png",
+            "logoURI": "https://assets.coingecko.com/coins/images/10103/small/HEX-logo.png?1575942673",
             "coingeckoId": "hex",
             "listedIn": [
                 "coingecko",
-                "1inch",
                 "openocean",
                 "lifinance",
                 "xyfinance"
@@ -59364,6 +59278,19 @@
                 "coingecko",
                 "1inch",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "MEVFREE",
+            "name": "MEVFree",
+            "address": "0x1936C91190E901B7dD55229A574AE22B58Ff498a",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://s3.openocean.finance/token_logos/logos/1690973396907_22881948238644223.png",
+            "coingeckoId": "mevfree",
+            "listedIn": [
+                "coingecko",
+                "openocean"
             ]
         },
         {

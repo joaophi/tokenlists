@@ -2656,6 +2656,18 @@
         ]
     },
     {
+        "symbol": "BAL",
+        "name": "Balancer",
+        "address": "0xE15bCB9E0EA69e6aB9FA080c4c4A5632896298C3",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/11683/thumb/Balancer.png?1592792958",
+        "coingeckoId": "balancer",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "POLS",
         "name": "PolkastarterToken",
         "address": "0xE1463E8991c8A62e64b77b5Fb6B22F190344C2A9",
@@ -5554,18 +5566,6 @@
         "listedIn": [
             "pangolin",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "BAL",
-        "name": "Balancer",
-        "address": "0x8239A6b877804206C7799028232A7188DA487CeC",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/11683/thumb/Balancer.png?1592792958",
-        "coingeckoId": "balancer",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -10287,18 +10287,6 @@
         "chainId": 43114,
         "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1625756490",
         "coingeckoId": "ankreth",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "BNPL",
-        "name": "BNPL Pay",
-        "address": "0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/18543/thumb/Untitled_%28200_%C3%97_200_px%29_%281%29.png?1667541672",
-        "coingeckoId": "bnpl-pay",
         "listedIn": [
             "coingecko"
         ]

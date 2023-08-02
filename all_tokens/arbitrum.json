@@ -2227,18 +2227,6 @@
         ]
     },
     {
-        "symbol": "WUSDR",
-        "name": "Wrapped USDR",
-        "address": "0xDDc0385169797937066bBd8EF409b5B3c0dFEB52",
-        "decimals": 9,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/28800/thumb/wUSDRlogo.png?1674283345",
-        "coingeckoId": "wrapped-usdr",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "ROSX",
         "name": "Roseon",
         "address": "0xDC8184ba488e949815d4AAfb35B3c56ad03B4179",
@@ -3707,6 +3695,18 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/28147/thumb/IMG_20221107_091938_841.png?1667896989",
         "coingeckoId": "leverageinu",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WUSDR",
+        "name": "Wrapped USDR",
+        "address": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
+        "decimals": 9,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/28800/thumb/wUSDRlogo.png?1674283345",
+        "coingeckoId": "wrapped-usdr",
         "listedIn": [
             "coingecko"
         ]
