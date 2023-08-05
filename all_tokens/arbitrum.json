@@ -5694,7 +5694,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/29116/thumb/20230223_224134.jpg?1677224110",
         "coingeckoId": "nftearth",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -7323,7 +7324,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27008/thumb/cbeth.png?1661390066",
         "coingeckoId": "coinbase-wrapped-staked-eth",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {

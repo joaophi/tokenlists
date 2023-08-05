@@ -2050,6 +2050,19 @@
         ]
     },
     {
+        "symbol": "NFTE",
+        "name": "NFTEarth",
+        "address": "0x51B902f19a56F0c8E409a34a215AD2673EDF3284",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/29116/thumb/20230223_224134.jpg?1677224110",
+        "coingeckoId": "nftearth",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PLS",
         "name": "PlutusDAO",
         "address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
@@ -2641,6 +2654,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/28038/thumb/nifloki.png?1667198797",
         "coingeckoId": "nitrofloki",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CBETH",
+        "name": "Coinbase Wrapped Staked ETH",
+        "address": "0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/27008/thumb/cbeth.png?1661390066",
+        "coingeckoId": "coinbase-wrapped-staked-eth",
         "listedIn": [
             "coingecko",
             "lifinance"
