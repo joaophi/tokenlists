@@ -13826,7 +13826,7 @@
         },
         {
             "symbol": "USDY",
-            "name": "USDy",
+            "name": "YSL USDy",
             "address": "0x45d486479Ed1dB8b164d1386B3c89c05CeE8CA86",
             "decimals": 18,
             "chainId": 56,
@@ -19049,9 +19049,8 @@
             "decimals": 18,
             "chainId": 250,
             "logoURI": "https://tokens.1inch.io/0xc758295cd1a564cdb020a78a681a838cf8e0627d.png",
-            "coingeckoId": "fantomstarter",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "openocean",
                 "SpookySwap",
@@ -22388,6 +22387,19 @@
             "decimals": 18,
             "chainId": 10,
             "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "optimism",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "SYNTH",
+            "name": "Synth",
+            "address": "0xa925f4057d6E6C8FAf8bdE537Ad14BA91A1D0337",
+            "decimals": 18,
+            "chainId": 10,
+            "logoURI": "https://ethereum-optimism.github.io/data/SYNTH/logo.svg",
             "coingeckoId": null,
             "listedIn": [
                 "optimism",
@@ -45656,6 +45668,19 @@
                 "1inch",
                 "sushiswap",
                 "openocean",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "SYNTH",
+            "name": "Synth",
+            "address": "0xD41f3D112cb8695c7a8992E4055BD273f3ce8729",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://ethereum-optimism.github.io/data/SYNTH/logo.svg",
+            "coingeckoId": null,
+            "listedIn": [
+                "optimism",
                 "lifinance"
             ]
         },
