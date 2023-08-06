@@ -2617,6 +2617,18 @@
         ]
     },
     {
+        "symbol": "AXL",
+        "name": "Axelar",
+        "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/27277/thumb/V-65_xQ1_400x400.jpeg?1663121730",
+        "coingeckoId": "axelar",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "EXAWSTETH",
         "name": "Exactly Wrapped stETH",
         "address": "0x22ab31Cd55130435b5efBf9224b6a9d5EC36533F",
