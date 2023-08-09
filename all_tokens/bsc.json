@@ -24672,7 +24672,7 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/22039/thumb/lVshyCp.png?1640669485",
-        "coingeckoId": "marvin-inu",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
