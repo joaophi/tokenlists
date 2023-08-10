@@ -17534,6 +17534,19 @@
         ]
     },
     {
+        "symbol": "COC",
+        "name": "CryptoOracle Collective",
+        "address": "0xC8D9871a79551Ab4439C9E08f12962E3785f0437",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://ethereum-optimism.github.io/data/COC/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "APM",
         "name": "apM Coin",
         "address": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
@@ -26904,18 +26917,6 @@
             "coingecko",
             "1inch",
             "sushiswap",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "PYUSD",
-        "name": "Paypal USD",
-        "address": "0x8f5037B49Bc141D11A1D893ae5B6C5Ac6b41Fd86",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://tokens.1inch.io/0x8f5037b49bc141d11a1d893ae5b6c5ac6b41fd86.png",
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
