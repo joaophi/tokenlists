@@ -19108,7 +19108,7 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/20178/thumb/imc_Logo.png?1636604215",
-        "coingeckoId": "i-money-crypto",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -26921,6 +26921,18 @@
         ]
     },
     {
+        "symbol": "PYUSD",
+        "name": "Paypal USD",
+        "address": "0x8f5037B49Bc141D11A1D893ae5B6C5Ac6b41Fd86",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0x8f5037b49bc141d11a1d893ae5b6c5ac6b41fd86.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "VERI",
         "name": "Veritaseum",
         "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
@@ -29989,7 +30001,7 @@
         "decimals": 9,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x833850be8858722cfc5e5e75f2fe6275e055d888.png",
-        "coingeckoId": "decentrabnb",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "1inch",
@@ -38791,7 +38803,7 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/14164/thumb/kyl_logo.jpg?1647507720",
-        "coingeckoId": "kylin-network",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -47768,7 +47780,7 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/4009/thumb/amo-logomark_black.png?1547039106",
-        "coingeckoId": "amo",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
