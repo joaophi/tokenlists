@@ -148,6 +148,19 @@
         ]
     },
     {
+        "symbol": "AUTOS",
+        "name": "AutoSingle",
+        "address": "0xae620DC4B9b6e44FBeb4a949F63AC957Cc43b5dD",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/AutoS.svg",
+        "coingeckoId": "autosingle",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
+        ]
+    },
+    {
         "symbol": "CRONA",
         "name": "CronaSwap",
         "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
@@ -593,7 +606,7 @@
         "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
         "decimals": 18,
         "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/22616/small/single.png?1642313588",
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/SINGLE.svg",
         "coingeckoId": "single-finance",
         "listedIn": [
             "coingecko",

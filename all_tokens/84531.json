@@ -1,11 +1,35 @@
 [
     {
+        "symbol": "CHAIN",
+        "name": "Chain Games",
+        "address": "0xeEFf5B1cd3DE16F347996725F5184fdAA54565A0",
+        "decimals": 18,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/CHAIN/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "RSR",
         "name": "Base Goerli Reserve RSR",
         "address": "0xc8058960a9d7E7d81143BDBA38d19e6824165932",
         "decimals": 18,
         "chainId": 84531,
         "logoURI": "https://ethereum-optimism.github.io/data/RSR/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "NOGS",
+        "name": "Noggles",
+        "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+        "decimals": 18,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/NOGS/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -36,6 +60,18 @@
         ]
     },
     {
+        "symbol": "SOFI",
+        "name": "Rai.Finance",
+        "address": "0xDb9888b842408B0b8eFa1f5477bD9F351754999E",
+        "decimals": 18,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/SOFI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "MBS",
         "name": "MBS",
         "address": "0xBF7e0A518e518C0ab46D15C28ab646090E25D6ef",
@@ -60,6 +96,30 @@
         ]
     },
     {
+        "symbol": "PTY",
+        "name": "PTY Token",
+        "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
+        "decimals": 18,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/PTY/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "PIP",
+        "name": "PIP",
+        "address": "0x86842f66d94083694f49b155640E293D60c057a3",
+        "decimals": 9,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "USDbC",
         "name": "USD Base Coin",
         "address": "0x853154e2A5604E5C74a2546E2871Ad44932eB92C",
@@ -72,24 +132,24 @@
         ]
     },
     {
-        "symbol": "tBTC",
-        "name": "Base tBTC v2",
-        "address": "0x783349cd20f26CE12e747b1a17bC38D252c9e119",
+        "symbol": "wOpenX",
+        "name": "OpenX Optimism",
+        "address": "0x8434DE6a606A412AfFEcF9B992bCdB72D5233fE9",
         "decimals": 18,
         "chainId": 84531,
-        "logoURI": "https://ethereum-optimism.github.io/data/tBTC/logo.svg",
+        "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
         ]
     },
     {
-        "symbol": "CHAIN",
-        "name": "Chain Games",
-        "address": "0x52b7D8851d6CcBC6342ba0855Be65f7B82A3F17f",
+        "symbol": "tBTC",
+        "name": "Base tBTC v2",
+        "address": "0x783349cd20f26CE12e747b1a17bC38D252c9e119",
         "decimals": 18,
         "chainId": 84531,
-        "logoURI": "https://ethereum-optimism.github.io/data/CHAIN/logo.svg",
+        "logoURI": "https://ethereum-optimism.github.io/data/tBTC/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -120,12 +180,36 @@
         ]
     },
     {
+        "symbol": "WAMPL",
+        "name": "Wrapped Ampleforth",
+        "address": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
+        "decimals": 18,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "HANeP",
         "name": "HANePlatform",
         "address": "0x35D48A789904E9b15705977192e5d95e2aF7f1D3",
         "decimals": 18,
         "chainId": 84531,
         "logoURI": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "MPWR",
+        "name": "Base Goerli MPWR",
+        "address": "0x1901Bf2952F438Fa6251ac100375769f9Afd907d",
+        "decimals": 18,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/MPWR/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"

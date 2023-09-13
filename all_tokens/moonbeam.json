@@ -70,8 +70,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018",
         "coingeckoId": "mimatic",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -149,7 +148,7 @@
         ]
     },
     {
-        "symbol": "XCDOT",
+        "symbol": "DOT",
         "name": "xcDOT",
         "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
         "decimals": 10,
@@ -180,6 +179,18 @@
         "decimals": 18,
         "chainId": 1284,
         "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xfffffffecb45afd30a637967995394cc88c0c194/d5d66576a4d263192b652c86b2f50cf6.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "xcEQD",
+        "name": "Equilibrium Dollar",
+        "address": "0xFFffFfFF8cdA1707bAF23834d211B08726B1E499",
+        "decimals": 9,
+        "chainId": 1284,
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFFFFFFF8CDA1707BAF23834D211B08726B1E499/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -236,18 +247,6 @@
         ]
     },
     {
-        "symbol": "TOAD",
-        "name": "Toad Network",
-        "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xf480f38c366daac4305dc484b2ad7a496ff00cea/f2b188ab7a3127a29ef8d465e6b7a10f.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "RMRK",
         "name": "RMRK",
         "address": "0xECf2ADafF1De8A512f6e8bfe67a2C836EDb25Da3",
@@ -257,18 +256,6 @@
         "coingeckoId": "rmrk",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ROAR",
-        "name": "AlphaDEX",
-        "address": "0xE68bA9C8411B27BD71811b1B1e5574CBAdD09655",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xe68ba9c8411b27bd71811b1b1e5574cbadd09655/1b868e3a1cd67ff691a0f3948ac142c5.png",
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -335,7 +322,7 @@
     },
     {
         "symbol": "AXLUSDC",
-        "name": "Axelar USDC",
+        "name": "Bridged USD Coin  Axelar ",
         "address": "0xCa01a1D0993565291051daFF390892518ACfAD3A",
         "decimals": 6,
         "chainId": 1284,
@@ -422,18 +409,6 @@
         ]
     },
     {
-        "symbol": "LDO",
-        "name": "Lido DAO Token",
-        "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x6ccf12b480a99c54b23647c995f4525d544a7e72/c3268bfb377ea85bcb6cab65a6044713.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ATHUSD",
         "name": "Athos Finance USD",
         "address": "0x9D5d41D8C03e38194A577347206F8829B9cF7C9a",
@@ -454,8 +429,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22298/thumb/STATIK_200x200.png?1641424859",
         "coingeckoId": "statik",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -569,18 +543,6 @@
         ]
     },
     {
-        "symbol": "AMY",
-        "name": "Amy Finance Token ",
-        "address": "0x7EA2be2df7BA6E54B1A9C70676f668455E329d29",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "DAI",
         "name": "Dai",
         "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
@@ -602,13 +564,12 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22297/thumb/THO_200x200.png?1641425001",
         "coingeckoId": "thorus",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
         "symbol": "CEUSDC",
-        "name": "USD Coin   Celer",
+        "name": "Bridged USD Coin  Celer ",
         "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
         "decimals": 6,
         "chainId": 1284,
@@ -714,30 +675,6 @@
         "coingeckoId": "axelar",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "ZLK",
-        "name": "Zenlink Network Token",
-        "address": "0x3Fd9b6C9A24E09F67b7b706d72864aEbb439100C",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x3fd9b6c9a24e09f67b7b706d72864aebb439100c/14e6bf44bbfdd64e63d80fbd69159eaa.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "QI",
-        "name": "QiDao",
-        "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x3f56e0c36d275367b8c502090edf38289b3dea0d/c0524dfb9be687e8e26191eed8774fd3.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -849,8 +786,7 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
@@ -862,8 +798,7 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
@@ -938,18 +873,6 @@
         "coingeckoId": "alium-finance",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "PAE",
-        "name": "Ripae",
-        "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {

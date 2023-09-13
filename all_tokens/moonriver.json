@@ -114,18 +114,6 @@
         ]
     },
     {
-        "symbol": "TM",
-        "name": "Templar Money",
-        "address": "0xd4143E8dB48a8f73afCDF13D7B3305F28DA38116",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "RIB",
         "name": "RiverBoat",
         "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
@@ -149,6 +137,18 @@
         "coingeckoId": "spiderdao",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "SOS",
+        "name": "OpenDAO",
+        "address": "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
+        "decimals": 18,
+        "chainId": 1285,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -303,6 +303,18 @@
         ]
     },
     {
+        "symbol": "DODO",
+        "name": "DODO bird",
+        "address": "0xE9460BD2FFB12b668fA32919C785C239f974D37C",
+        "decimals": 18,
+        "chainId": 1285,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin - Meter",
         "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
@@ -376,18 +388,6 @@
         "coingeckoId": "templardao",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "wsOHM",
-        "name": "Wrapped sOHM",
-        "address": "0xD22a58f79e9481D1a88e00c343885A588b34b68B",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -470,8 +470,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22087/thumb/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
         "coingeckoId": "multichain",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -595,8 +594,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23127/thumb/61f1198172efd5000109e2bf_MicrosoftTeams-image_%28160%29.png?1643268545",
         "coingeckoId": "alpha-dex",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -819,18 +817,6 @@
         ]
     },
     {
-        "symbol": "SPACE",
-        "name": "Space Token",
-        "address": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "KAFE",
         "name": "MoonKafe",
         "address": "0x52f04C806EB82930F40D410259b7AF8E18d3BDc9",
@@ -855,6 +841,18 @@
             "sushiswap",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "celrMAI",
+        "name": "Celer-Pegged miMATIC",
+        "address": "0x48421FF1c6B93988138130865C4B7Cce10358271",
+        "decimals": 18,
+        "chainId": 1285,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -908,18 +906,6 @@
         ]
     },
     {
-        "symbol": "MNTO",
-        "name": "Minato",
-        "address": "0x3D51a9fB5dCc87F7B237B04975559b920a9a56Ff",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "aROME",
         "name": "Alpha Rome",
         "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
@@ -958,18 +944,6 @@
         ]
     },
     {
-        "symbol": "PINK",
-        "name": "Pink Token",
-        "address": "0x30A54FbFF50f86C3a289fa70e677051a86677be4",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x30a54fbff50f86c3a289fa70e677051a86677be4/f3e6dc0d09570c95b564ff794fc973df.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "IDIA",
         "name": "Impossible Finance Launchpad",
         "address": "0x2d28AA28fA1E5e6bF121CF688309Bf3faAAe3C70",
@@ -978,8 +952,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17803/thumb/IDIA.png?1629292292",
         "coingeckoId": "idia",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -1105,18 +1078,6 @@
         ]
     },
     {
-        "symbol": "HND",
-        "name": "Hundred Finance",
-        "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x10010078a54396f62c96df8532dc2b4847d47ed3/a27fffbdafdae8936cf53389264e8ebe.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ZLK",
         "name": "Zenlink Network",
         "address": "0x0f47ba9d9Bde3442b42175e51d6A367928A1173B",
@@ -1125,8 +1086,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20884/thumb/zenlink.PNG?1637824309",
         "coingeckoId": "zenlink-network-token",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {

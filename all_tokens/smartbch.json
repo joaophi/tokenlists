@@ -36,18 +36,6 @@
         ]
     },
     {
-        "symbol": "1BCH",
-        "name": "1BCH",
-        "address": "0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D",
-        "decimals": 18,
-        "chainId": 10000,
-        "logoURI": "https://assets.coingecko.com/coins/images/23460/thumb/1bch.png?1644217305",
-        "coingeckoId": "1bch",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "EBEN",
         "name": "Green Ben",
         "address": "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B",
@@ -55,18 +43,6 @@
         "chainId": 10000,
         "logoURI": "https://assets.coingecko.com/coins/images/21330/thumb/200x200.png?1638946647",
         "coingeckoId": "green-ben",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "CLY",
-        "name": "Celery",
-        "address": "0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91",
-        "decimals": 18,
-        "chainId": 10000,
-        "logoURI": "https://assets.coingecko.com/coins/images/21457/thumb/C1tpQek6bQ25.png?1639291682",
-        "coingeckoId": "celery",
         "listedIn": [
             "coingecko"
         ]
@@ -115,18 +91,6 @@
         "chainId": 10000,
         "logoURI": "https://assets.coingecko.com/coins/images/21387/thumb/ZQc8svVW_400x400.jpg?1639035078",
         "coingeckoId": "cashcats",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "DAIQUIRI",
-        "name": "Tropical Finance",
-        "address": "0x24d8d5Cbc14FA6A740c3375733f0287188F8dF3b",
-        "decimals": 18,
-        "chainId": 10000,
-        "logoURI": "https://assets.coingecko.com/coins/images/22452/thumb/6787241B-90A3-4D28-8F06-7CE575186CF0.png?1641825262",
-        "coingeckoId": "tropical-finance",
         "listedIn": [
             "coingecko"
         ]

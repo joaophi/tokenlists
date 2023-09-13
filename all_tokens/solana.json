@@ -2470,7 +2470,7 @@
         "decimals": 6,
         "chainId": -1,
         "logoURI": "https://arttest12312321.s3.us-west-1.amazonaws.com/pics/Bag_Open+(3).png",
-        "coingeckoId": "loot-token",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "1sol"
@@ -2935,7 +2935,7 @@
         "decimals": 3,
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEYrotdkRitGUK5UMv3aMttEhVAZLhRJMcG82zKYsaWB/logo.png",
-        "coingeckoId": "potato",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "1sol"
@@ -3283,7 +3283,7 @@
         "decimals": 6,
         "chainId": -1,
         "logoURI": "https://assets.coingecko.com/coins/images/28778/thumb/circle_BOO_logo.png?1674112115",
-        "coingeckoId": "boo",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -4045,7 +4045,7 @@
         "decimals": 9,
         "chainId": -1,
         "logoURI": "https://assets.coingecko.com/coins/images/25848/thumb/logo.png?1654150342",
-        "coingeckoId": "star-chain",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -4130,7 +4130,7 @@
         "decimals": 9,
         "chainId": -1,
         "logoURI": "https://assets.coingecko.com/coins/images/28902/thumb/newTPLogoSollama.png?1675237565",
-        "coingeckoId": "sollama-utilities",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -4202,7 +4202,7 @@
         "decimals": 9,
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gtj6NZHgMZ7QHg8PDN6izEn4GjVoX8yFLv4ESNKsWb62/BT-logo.png",
-        "coingeckoId": "bitmon",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "1sol"
@@ -6400,7 +6400,7 @@
         "decimals": 9,
         "chainId": -1,
         "logoURI": "https://assets.coingecko.com/coins/images/22285/thumb/K3hU77wS_400x400.jpg?1641365642",
-        "coingeckoId": "battle-of-guardians-share",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -10057,7 +10057,7 @@
         "decimals": 9,
         "chainId": -1,
         "logoURI": "https://assets.coingecko.com/coins/images/22832/thumb/wso2_200x200.png?1642668402",
-        "coingeckoId": "widi-soul",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -10194,7 +10194,7 @@
         "decimals": 9,
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z/logo.png",
-        "coingeckoId": "swole-doge",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "1sol"
@@ -10402,7 +10402,7 @@
         "decimals": 9,
         "chainId": -1,
         "logoURI": "https://assets.coingecko.com/coins/images/26344/thumb/f55kBYa2_400x400.jpeg?1657586586",
-        "coingeckoId": "cripco",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]

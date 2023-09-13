@@ -48,18 +48,6 @@
         ]
     },
     {
-        "symbol": "USDT",
-        "name": "USDT on Kava",
-        "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-        "decimals": 6,
-        "chainId": 2222,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kava/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "elkfinance"
-        ]
-    },
-    {
         "symbol": "LION",
         "name": "Lion",
         "address": "0x990e157fC8a492c28F5B50022F000183131b9026",

@@ -1,11 +1,11 @@
 [
     {
-        "symbol": "USDS",
-        "name": "Stably USDS",
+        "symbol": "USDSC",
+        "name": "Stably USDS Classic",
         "address": "one1egzwqa9pys2easrxaa28xgll3yxu83gmcnf08f",
         "decimals": 6,
         "chainId": 1666600000,
-        "logoURI": "https://assets.coingecko.com/coins/images/7596/thumb/Stably_USDS_-_Icon_%28Standard%29.png?1663824111",
+        "logoURI": "https://assets.coingecko.com/coins/images/7596/thumb/USDS_Classic_Standard.png?1694496466",
         "coingeckoId": "stableusd",
         "listedIn": [
             "coingecko"
@@ -282,18 +282,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
-        ]
-    },
-    {
-        "symbol": "HVILLE",
-        "name": "Harmonyville",
-        "address": "0xF9565E8c4E13862f677F144B3cdC8700D9c4BA31",
-        "decimals": 18,
-        "chainId": 1666600000,
-        "logoURI": "https://assets.coingecko.com/coins/images/23661/thumb/harmonyville200x200.png?1644990399",
-        "coingeckoId": "harmonyville",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -1605,7 +1593,7 @@
         "address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
         "decimals": 18,
         "chainId": 1666600000,
-        "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/PAPERLOGOCryptoLink1-1.png?1669717863",
+        "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/v3PAPERLogo-01.png?1694425967",
         "coingeckoId": "paper-fantom",
         "listedIn": [
             "coingecko"

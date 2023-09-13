@@ -297,10 +297,11 @@
         "address": "0xae620DC4B9b6e44FBeb4a949F63AC957Cc43b5dD",
         "decimals": 18,
         "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/27083/thumb/autos.png?1661764923",
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/AutoS.svg",
         "coingeckoId": "autosingle",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -528,18 +529,6 @@
         "coingeckoId": null,
         "listedIn": [
             "cronaswap"
-        ]
-    },
-    {
-        "symbol": "MNG",
-        "name": "SaharaDAO",
-        "address": "0xC9b23289c60783649AA327732FCCEc2f5d0aC466",
-        "decimals": 18,
-        "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/25997/thumb/41625-E26-037-E-430-D-B125-DB02558-C5024.png?1655275764",
-        "coingeckoId": "saharadao",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -975,6 +964,18 @@
         ]
     },
     {
+        "symbol": "DBC",
+        "name": "DBC",
+        "address": "0x730B05d100EeFb92f04016C6c0cF6f2bBB2C3A57",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/DBC.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
+        ]
+    },
+    {
         "symbol": "Weed",
         "name": "Weed",
         "address": "0x72F09ed27EbA752f0B41cf874d17eE91E07DBf20",
@@ -1374,30 +1375,6 @@
         ]
     },
     {
-        "symbol": "ZOGI",
-        "name": "ZOGI",
-        "address": "0x41080CA7Be4b3F0cACBD95164e9a56b582382cAA",
-        "decimals": 18,
-        "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/28446/thumb/ZOGI_Token_Logo.png?1670659477",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "DEXI",
-        "name": "Dexioprotocol",
-        "address": "0x3e1bEF464F2600eF94dE4d965c8991e06570d2e8",
-        "decimals": 9,
-        "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/27075/thumb/DEXI_cirle_R.png?1676255120",
-        "coingeckoId": "dexioprotocol-v2",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "BTE",
         "name": "Betero",
         "address": "0x3D632d9e1a60a0880Dd45E61f279D919b5748377",
@@ -1434,6 +1411,18 @@
         ]
     },
     {
+        "symbol": "INK",
+        "name": "Ink Fantom",
+        "address": "0x32975907733f93305BE28E2bfd123666b7A9c863",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/23511/thumb/v3INKLogo-03.png?1694426392",
+        "coingeckoId": "ink-fantom",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "UCRO",
         "name": "UtilityCro",
         "address": "0x30078453DEaD93bdBC31b9A18AC0a6ece171F459",
@@ -1443,18 +1432,6 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "DARKG",
-        "name": "DarkGang Finance",
-        "address": "0x2c43d9f78e4132FBe40BEBB8EC5F61377472b2C0",
-        "decimals": 18,
-        "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/24638/thumb/DARKG.png?1648463537",
-        "coingeckoId": "darkgang-finance",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -1539,7 +1516,7 @@
         "address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
         "decimals": 18,
         "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/PAPERLOGOCryptoLink1-1.png?1669717863",
+        "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/v3PAPERLogo-01.png?1694425967",
         "coingeckoId": "paper-fantom",
         "listedIn": [
             "coingecko"
@@ -1697,7 +1674,7 @@
         "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
         "decimals": 18,
         "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/22616/small/single.png?1642313588",
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/SINGLE.svg",
         "coingeckoId": "single-finance",
         "listedIn": [
             "coingecko",

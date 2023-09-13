@@ -838,7 +838,7 @@
         "decimals": 6,
         "chainId": -1,
         "logoURI": "https://arttest12312321.s3.us-west-1.amazonaws.com/pics/Bag_Open+(3).png",
-        "coingeckoId": "loot-token",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "1sol"
@@ -955,7 +955,7 @@
         "decimals": 3,
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEYrotdkRitGUK5UMv3aMttEhVAZLhRJMcG82zKYsaWB/logo.png",
-        "coingeckoId": "potato",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "1sol"
@@ -1358,7 +1358,7 @@
         "decimals": 9,
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gtj6NZHgMZ7QHg8PDN6izEn4GjVoX8yFLv4ESNKsWb62/BT-logo.png",
-        "coingeckoId": "bitmon",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "1sol"
@@ -2970,7 +2970,7 @@
         "decimals": 9,
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z/logo.png",
-        "coingeckoId": "swole-doge",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "1sol"

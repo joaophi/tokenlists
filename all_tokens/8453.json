@@ -1,5 +1,41 @@
 [
     {
+        "symbol": "TOWER",
+        "name": "TOWER",
+        "address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/TOWER/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "THALES",
+        "name": "Optimistic Thales Token",
+        "address": "0xf34e0cff046e154CAfCae502C7541b9E5FD8C249",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/THALES/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "bwAJNA",
+        "name": "Burn Wrapped AJNA",
+        "address": "0xf0f326af3b1Ed943ab95C29470730CC8Cf66ae47",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "ELK",
         "name": "Elk",
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -25,6 +61,30 @@
         ]
     },
     {
+        "symbol": "wOpenX",
+        "name": "OpenX Optimism",
+        "address": "0xcC2a24405480242f8EE5d9b0aE27861D801d7FFA",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "1INCH",
+        "name": "1INCH Token",
+        "address": "0xc5fecC3a29Fb57B5024eEc8a2239d4621e111CBE",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "HOP",
         "name": "Hop",
         "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
@@ -43,6 +103,18 @@
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "RSR",
+        "name": "Reserve Rights",
+        "address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/RSR/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -85,6 +157,54 @@
         ]
     },
     {
+        "symbol": "rETH",
+        "name": "Rocket Pool ETH",
+        "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "DOG",
+        "name": "The Doge NFT",
+        "address": "0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/DOG/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "SUS",
+        "name": "Sustainable Growth",
+        "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/SUS/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "TRAC",
+        "name": "Trace Token",
+        "address": "0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/TRAC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "HAN",
         "name": "HanChain",
         "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
@@ -109,6 +229,18 @@
         ]
     },
     {
+        "symbol": "D2D",
+        "name": "Prime",
+        "address": "0x91e1D2B9b0D9AfCF1F024dF09A68799fB200bc63",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/D2D/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "MBS",
         "name": "MBS",
         "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
@@ -121,12 +253,36 @@
         ]
     },
     {
-        "symbol": "BAL",
-        "name": "Balancer",
-        "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+        "symbol": "CRV",
+        "name": "Curve DAO Token",
+        "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
         "decimals": 18,
         "chainId": 8453,
-        "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+        "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "MPWR",
+        "name": "Empower Token",
+        "address": "0x85267fBC6e1e1563bB9247336F05D9220eA99f52",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/MPWR/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "SUSHI",
+        "name": "SushiToken",
+        "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/SUSHI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -145,12 +301,24 @@
         ]
     },
     {
-        "symbol": "TRAC",
-        "name": "Trace Token",
-        "address": "0x7Af72aD5E8793023DC722d617fe3338ac6b5ccE9",
+        "symbol": "PIP",
+        "name": "PIP",
+        "address": "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2",
+        "decimals": 9,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "SOFI",
+        "name": "Rai.Finance",
+        "address": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
         "decimals": 18,
         "chainId": 8453,
-        "logoURI": "https://ethereum-optimism.github.io/data/TRAC/logo.png",
+        "logoURI": "https://ethereum-optimism.github.io/data/SOFI/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -163,6 +331,18 @@
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "WAMPL",
+        "name": "Wrapped Ampleforth",
+        "address": "0x489fe42C267fe0366B16b0c39e7AEEf977E841eF",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -194,6 +374,30 @@
         ]
     },
     {
+        "symbol": "crvUSD",
+        "name": "Curve.Fi USD Stablecoin",
+        "address": "0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/crvUSD/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "BAL",
+        "name": "Balancer",
+        "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "HANeP",
         "name": "HANePlatform",
         "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
@@ -218,12 +422,48 @@
         ]
     },
     {
+        "symbol": "NFD",
+        "name": "Feisty Doge",
+        "address": "0x37289326b7Bca5a776A5071b8d693C0588c5C9A6",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/NFD/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "BLUE",
+        "name": "BlueSwap",
+        "address": "0x30136B90e532141FeD006c61105cff3668b5c774",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/BLUE/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "cbETH",
         "name": "Coinbase Wrapped Staked ETH",
         "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "KNC",
+        "name": "Kyber Network Crystal v2",
+        "address": "0x28fe69Ff6864C1C218878BDCA01482D36B9D57b1",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -248,6 +488,42 @@
         "decimals": 18,
         "chainId": 8453,
         "logoURI": "https://ethereum-optimism.github.io/data/INFC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "RPL",
+        "name": "Rocket Pool Protocol",
+        "address": "0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "NOGS",
+        "name": "Noggles",
+        "address": "0x13741C5dF9aB03E7Aa9Fb3Bf1f714551dD5A5F8a",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/NOGS/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "GRG",
+        "name": "Rigo Token",
+        "address": "0x09188484e1Ab980DAeF53a9755241D759C5B7d60",
+        "decimals": 18,
+        "chainId": 8453,
+        "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"

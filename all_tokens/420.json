@@ -1,11 +1,11 @@
 [
     {
         "symbol": "INSURE",
-        "name": "InsureToken",
-        "address": "0xeF26Ca2844b0b470AfC1b0aeF5F65e677dE6CD1f",
+        "name": "AltInsureToken",
+        "address": "0xfb0a8CF5B2302f880aA26461C78A8DC20A02aE25",
         "decimals": 18,
         "chainId": 420,
-        "logoURI": "https://ethereum-optimism.github.io/data/INSURE/logo.png",
+        "logoURI": "https://ethereum-optimism.github.io/data/INSURE/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -156,6 +156,30 @@
         ]
     },
     {
+        "symbol": "wOpenX",
+        "name": "OpenX Optimism",
+        "address": "0x9c4d82Ff5d1562287000bAE8fFCDbDDa475bdA2A",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "PIP",
+        "name": "PIP",
+        "address": "0x8BE06E6ed3eb7121A42fC710B2BF16e83227ab97",
+        "decimals": 9,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0x853eb4bA5D0Ba2B77a0A5329Fd2110d5CE149ECE",
@@ -168,8 +192,8 @@
         ]
     },
     {
-        "symbol": "USDC",
-        "name": "USD Coin",
+        "symbol": "USDC.e",
+        "name": "Bridged USDC",
         "address": "0x7E07E15D2a87A24492740D16f5bdF58c16db0c4E",
         "decimals": 6,
         "chainId": 420,
@@ -198,6 +222,18 @@
         "decimals": 18,
         "chainId": 420,
         "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "SAIL",
+        "name": "SAIL Token",
+        "address": "0x4c16dD6e9b402Ea4FB5bE647Be2F49e3d59BB08A",
+        "decimals": 18,
+        "chainId": 420,
+        "logoURI": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "optimism"

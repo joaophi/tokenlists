@@ -350,7 +350,7 @@
     },
     {
         "symbol": "G-USDC",
-        "name": "Gravity Bridge USDC",
+        "name": "Bridged USD Coin  Gravity Bridge ",
         "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
         "decimals": 6,
         "chainId": 9001,
@@ -399,12 +399,12 @@
         ]
     },
     {
-        "symbol": "AXLWETH",
-        "name": "axlWETH",
+        "symbol": "AXLETH",
+        "name": "Axelar Wrapped Ether",
         "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/axlweth.png?1668244532",
+        "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/weth-wei_D_3x.png?1691399543",
         "coingeckoId": "axlweth",
         "listedIn": [
             "coingecko",
@@ -560,7 +560,7 @@
     },
     {
         "symbol": "AXLUSDC",
-        "name": "Axelar USDC",
+        "name": "Bridged USD Coin  Axelar ",
         "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
         "decimals": 6,
         "chainId": 9001,
