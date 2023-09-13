@@ -30,62 +30,64 @@ class TokenListProvider:
     @classmethod
     async def get_tokenlists(cls) -> dict[str, dict[ChainId, list[Token]]]:
         res: dict[ChainId, list[Token]] = defaultdict(list)
-
-        for chain_id, chain_name in cls.chains.items():
-            try:
-                resp = await httpx.AsyncClient().get(
-                    cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
-            except httpx.ReadTimeout:
-                await asyncio.sleep(0.5)
-                continue
-            num_retries = 0
-            while resp.status_code != 200:
-                if num_retries > 60:
-                    raise Exception(f"failed to get tokenlits {cls.base_url} after {num_retries} retries")
-                sleep_time = int(resp.headers.get("Retry-After", 1))
-                num_retries += 1
-                log.info(f"[{cls.name}] {chain_id} {chain_name} waiting {sleep_time} seconds")
-                await asyncio.sleep(sleep_time)
-                resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
-
-            try:
-                tokenlist = resp.json()
-            except:
-                tokenlist = json.loads(resp.text)
-            if "tokens" in tokenlist:
-                raw_tokens = tokenlist["tokens"]
-            elif "data" in tokenlist:
-                raw_tokens = tokenlist["data"]
-            elif "results" in tokenlist:
-                raw_tokens = tokenlist["results"]
-            elif "recommendedTokens" in tokenlist:
-                raw_tokens = tokenlist["recommendedTokens"]
-            else:
-                raw_tokens = tokenlist
-
-            if cls._get_chain_id_key and str(chain_id) in raw_tokens:
-                raw_tokens = raw_tokens[str(chain_id)]
-
-            if cls._tokens_to_list:
-                raw_tokens = list(raw_tokens.values())
-
-            tokens: list[Token] = []
-            for t in raw_tokens:
-
-                if not isinstance(t, dict):
-                    log.error(f"Token must be of type dict, got {t=} {cls.__name__}")
+        try:
+            for chain_id, chain_name in cls.chains.items():
+                try:
+                    resp = await httpx.AsyncClient().get(
+                        cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+                except httpx.ReadTimeout:
+                    await asyncio.sleep(0.5)
                     continue
-                if not t.get("chainId"):
-                    if cls.absent_chain_id:
-                        t["chainId"] = chain_id
-                    else:
-                        log.error(f"{cls.name} chain id absent")
+                num_retries = 0
+                while resp.status_code != 200:
+                    if num_retries > 60:
+                        raise Exception(f"failed to get tokenlits {cls.base_url} after {num_retries} retries")
+                    sleep_time = int(resp.headers.get("Retry-After", 1))
+                    num_retries += 1
+                    log.info(f"[{cls.name}] {chain_id} {chain_name} waiting {sleep_time} seconds")
+                    await asyncio.sleep(sleep_time)
+                    resp = await httpx.AsyncClient().get(cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+
+                try:
+                    tokenlist = resp.json()
+                except:
+                    tokenlist = json.loads(resp.text)
+                if "tokens" in tokenlist:
+                    raw_tokens = tokenlist["tokens"]
+                elif "data" in tokenlist:
+                    raw_tokens = tokenlist["data"]
+                elif "results" in tokenlist:
+                    raw_tokens = tokenlist["results"]
+                elif "recommendedTokens" in tokenlist:
+                    raw_tokens = tokenlist["recommendedTokens"]
+                else:
+                    raw_tokens = tokenlist
+
+                if cls._get_chain_id_key and str(chain_id) in raw_tokens:
+                    raw_tokens = raw_tokens[str(chain_id)]
+
+                if cls._tokens_to_list:
+                    raw_tokens = list(raw_tokens.values())
+
+                tokens: list[Token] = []
+                for t in raw_tokens:
+
+                    if not isinstance(t, dict):
+                        log.error(f"Token must be of type dict, got {t=} {cls.__name__}")
                         continue
-                if not t.get("coingeckoId"):
-                    t["coingeckoId"] = coingecko_ids.get(str(t["chainId"]), {}).get(t["address"].lower())
-                parsed_token = Token.parse_obj(t)
-                res[parsed_token.chainId].append(parsed_token)
-            log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
+                    if not t.get("chainId"):
+                        if cls.absent_chain_id:
+                            t["chainId"] = chain_id
+                        else:
+                            log.error(f"{cls.name} chain id absent")
+                            continue
+                    if not t.get("coingeckoId"):
+                        t["coingeckoId"] = coingecko_ids.get(str(t["chainId"]), {}).get(t["address"].lower())
+                    parsed_token = Token.parse_obj(t)
+                    res[parsed_token.chainId].append(parsed_token)
+                log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
+        except:
+            pass
         return {cls.name: res}
 
 
@@ -472,11 +474,11 @@ tokenlists_providers = [
     SpookySwap,
     Optimism,
     ArbitrumBridge,
-    #TraderJoe,
+    TraderJoe,
     Pangolin,
     PancakeSwap,
     MojitoSwap,
-    #RubicLists,
+    RubicLists,
     Lifinance,
     XyFinance,
     ElkFinanceTokenLists,
