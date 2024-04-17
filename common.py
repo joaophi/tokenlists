@@ -22,6 +22,7 @@ CHAIN_NAMES_BY_ID = {
     '1666600000': 'harmony',
     '1666700000': 'harmony-testnet',
     '20': 'elastos',
+    '2020': 'ronin',
     '25': 'cronos',
     '250': 'ftm',
     '256': 'heco-testnet',

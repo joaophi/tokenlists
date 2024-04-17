@@ -60,6 +60,20 @@ class TokenListProvider:
                     raw_tokens = tokenlist["results"]
                 elif "recommendedTokens" in tokenlist:
                     raw_tokens = tokenlist["recommendedTokens"]
+                elif cls == RoninExplorer:
+                    raw_tokens = tokenlist["result"]["items"]
+                    raw_tokens = [
+                        {
+                            "chainId": 2020,
+                            "address": address,
+                            "name": t["token_name"],
+                            "symbol": t["token_symbol"],
+                            "decimals": t["decimals"],
+                        }
+                        for address, t in raw_tokens.items()
+                        if t["token_name"]
+                    ]
+
                 else:
                     raw_tokens = tokenlist
 
@@ -119,6 +133,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "1": "ethereum",
         "-1": "solana",
         "9001": "evmos",
+        "2020": "ronin",
         # sora
     }
     absent_chain_id = True
@@ -458,6 +473,15 @@ class RouterProtocol(TokenListProvider):
         "1666600000": "1666600000",
     }
 
+class RoninExplorer(TokenListProvider):
+    name = "RoninExplorer"
+    base_url = "https://explorer-kintsugi.roninchain.com/v2/{}/address"
+
+    chains = {
+        "2020": "2020"
+    }
+    _by_chain_id = True
+
 
 tokenlists_providers = [
     CoinGeckoTokenLists,
@@ -487,4 +511,5 @@ tokenlists_providers = [
     Ubeswap,
     OolongSwap,
     CapricornFinance,
+    RoninExplorer,
 ]
