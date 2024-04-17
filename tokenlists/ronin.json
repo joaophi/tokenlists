@@ -1,17 +1,5 @@
 [
     {
-        "symbol": "",
-        "name": "Axie 1",
-        "address": "0xf747740A019712201002ea7D7a7893ad54c0c299",
-        "decimals": 0,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
         "symbol": "WFS",
         "name": "WildForestSkins",
         "address": "0xf13Dfd9c4Ad78A94fC8e0F46b10f947f593EFC61",
@@ -40,18 +28,6 @@
         "name": "WildForestLords",
         "address": "0xdd645C1093bE18C9667E1e79957a89B62cc3cba6",
         "decimals": 0,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
-        "symbol": "PIXEL",
-        "name": "PIXEL",
-        "address": "0xdF18fD85AB57D7C1Aae59729F2eF560BE56867B0",
-        "decimals": 18,
         "chainId": 2020,
         "logoURI": null,
         "coingeckoId": null,
@@ -136,18 +112,6 @@
         "name": "The Machines Arena Skins",
         "address": "0xb826BFe98D3a88C693C2382E223D162aaD5B8F22",
         "decimals": 0,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
-        "symbol": "PIXEL",
-        "name": "PIXEL",
-        "address": "0xb00b0cffB34b4BfC883594f733AD950cf34fDc0a",
-        "decimals": 18,
         "chainId": 2020,
         "logoURI": null,
         "coingeckoId": null,
@@ -516,18 +480,6 @@
         ]
     },
     {
-        "symbol": "PIXEL",
-        "name": "PIXEL",
-        "address": "0x9d7fA79363940ac384372B42ca484AB294622F2c",
-        "decimals": 18,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
         "symbol": "TRIBES_ONE",
         "name": "TribesSeasonOne",
         "address": "0x9a8f3e2E814e3D5D7CFf9D4c5BA4F8b046EaC5BB",
@@ -588,30 +540,6 @@
         ]
     },
     {
-        "symbol": "PIXEL",
-        "name": "PIXEL",
-        "address": "0x8d6e0C799E1cA0D5C524F05AE67174417a3F297F",
-        "decimals": 18,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
-        "symbol": "PIXEL",
-        "name": "PIXEL",
-        "address": "0x8b50c162494567B3c8B7F00F6031341861c8dEeD",
-        "decimals": 18,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
         "symbol": "SLP-WRON",
         "name": "Smooth Love Potion - Wrapped Ronin",
         "address": "0x8F1c5eDA143fA3D1bEa8B4E92f33562014D30E0D",
@@ -652,18 +580,6 @@
         "name": "Axie Charm",
         "address": "0x814A9C959a3Ef6CA44b5e2349e3bBa9845393947",
         "decimals": 0,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
-        "symbol": "PIXEL",
-        "name": "PIXEL",
-        "address": "0x7d3322cEab57CeA494Fd3E0F1152BF53e4E447b9",
-        "decimals": 18,
         "chainId": 2020,
         "logoURI": null,
         "coingeckoId": null,
@@ -756,18 +672,6 @@
         ]
     },
     {
-        "symbol": "PIXEL",
-        "name": "PIXEL",
-        "address": "0x58a4d05e59F065192173B7ab846aA1eB3727B3Bf",
-        "decimals": 18,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
         "symbol": "KSS",
         "name": "KaidroSparkSuit",
         "address": "0x56d4E6CE96F850bDC1dFD086AC1C19a1E2d5B5C5",
@@ -819,18 +723,6 @@
         "symbol": "WFU",
         "name": "WildForestUnits",
         "address": "0x4B7B799C5B21623c810E6d2EF3Ad89643D02fF86",
-        "decimals": 0,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
-        "symbol": "",
-        "name": "Axie 2",
-        "address": "0x469eFE320D172A1932B05d19964aE03d989CCB93",
         "decimals": 0,
         "chainId": 2020,
         "logoURI": null,
@@ -1155,18 +1047,6 @@
         "symbol": "TRIBESTERS",
         "name": "Tribesters",
         "address": "0x0A64072F0392c74165eB8c34f8868432b7739C7E",
-        "decimals": 0,
-        "chainId": 2020,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "RoninExplorer"
-        ]
-    },
-    {
-        "symbol": "KSS",
-        "name": "KaidroSparkSuit",
-        "address": "0x067274F020c98eF7871d76AF8d13B82e0e6F4477",
         "decimals": 0,
         "chainId": 2020,
         "logoURI": null,

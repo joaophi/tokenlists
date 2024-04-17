@@ -71,7 +71,7 @@ class TokenListProvider:
                             "decimals": t["decimals"],
                         }
                         for address, t in raw_tokens.items()
-                        if t["token_name"]
+                        if t["token_name"] and not t.get("is_deprecated", False)
                     ]
 
                 else:
@@ -100,8 +100,8 @@ class TokenListProvider:
                     parsed_token = Token.parse_obj(t)
                     res[parsed_token.chainId].append(parsed_token)
                 log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
-        except:
-            pass
+        except Exception as e:
+            log.error(f"[{cls.name}] {chain_id} {chain_name} failed: {e}")
         return {cls.name: res}
 
 
