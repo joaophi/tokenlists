@@ -6,7 +6,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xff96dccf2763D512B6038Dc60b7E96d1A9142507/logo.png",
-        "coingeckoId": "booster",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -84,7 +84,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4/logo.png",
-        "coingeckoId": "huobi-litecoin",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -110,7 +110,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375/logo.png",
-        "coingeckoId": "huobi-bitcoin-cash",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -136,7 +136,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xeEF1324343ca7Bf6e743e21Dd9e92Dfa4eFc3a56/logo.png",
-        "coingeckoId": "converter-finance",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -224,7 +224,7 @@
         "decimals": 12,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xd187e65f5A6e88d84437D96d2aE8c909Cc329f95/logo.png",
-        "coingeckoId": "super-three-kingdoms",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -507,7 +507,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xae3a768f9aB104c69A7CD6041fE16fFa235d1810/logo.png",
-        "coingeckoId": "huobi-fil",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -573,7 +573,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xa71EdC38d189767582C38A3145b5873052c3e47a/logo.png",
-        "coingeckoId": "tether",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -779,7 +779,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xE499Ef4616993730CEd0f31FA2703B92B50bB536/logo.png",
-        "coingeckoId": "huobi-pool-token",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -845,7 +845,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xE0fE25EeFCfcadDEF844fe30b8Be1d68ac6B7aF3/logo.png",
-        "coingeckoId": "xfarmer",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -1105,7 +1105,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3/logo.png",
-        "coingeckoId": "huobi-polkadot",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -1119,7 +1119,7 @@
         "decimals": 6,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0xA2F3C2446a3E20049708838a779Ff8782cE6645a/logo.png",
-        "coingeckoId": "heco-peg-xrp",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -1263,7 +1263,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x98fc3b60Ed4A504F588342A53746405E355F9347/logo.png",
-        "coingeckoId": "hecofi",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -1328,7 +1328,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x943D97ad0b597F73425d6f740596D0efD3d62507/logo.png",
-        "coingeckoId": "ins3-finance-coin",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -1458,7 +1458,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x8F67854497218043E1f72908FFE38D0Ed7F24721/logo.png",
-        "coingeckoId": "lendhub",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -1627,7 +1627,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x80C66D460E2bB9d31a8De54b4016fcA986D0811F/logo.png",
-        "coingeckoId": "htm",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -1783,7 +1783,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png",
-        "coingeckoId": "beefy-finance",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -1899,7 +1899,7 @@
         "decimals": 9,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x68a0A1fEF18DfCC422Db8bE6F0F486dEa1999EDC/logo.png",
-        "coingeckoId": "earndefi",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -1979,7 +1979,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x64FF637fB478863B7468bc97D30a5bF3A428a1fD/logo.png",
-        "coingeckoId": "huobi-ethereum",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -2121,7 +2121,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F/logo.png",
-        "coingeckoId": "wrapped-huobi-token",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -2147,7 +2147,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x52Ee54dd7a68e9cf131b0a57fd6015C74d7140E2/logo.png",
-        "coingeckoId": "pilot",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -2225,7 +2225,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x4F99d10e16972FF2FE315EEe53A95FC5A5870CE3/logo.png",
-        "coingeckoId": "heco-peg-bnb",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -2250,7 +2250,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x49e16563a2ba84E560780946f0Fb73A8B32C841E/logo.png",
-        "coingeckoId": "sovi-token",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "openocean",
@@ -2420,7 +2420,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x3beFB2308bcE92dA97264077fAf37dcd6C8A75E6/logo.png",
-        "coingeckoId": "woo-network",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -2894,7 +2894,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/heco/0x099626783842d35C221E5d01694C2B928eB3B0AD/logo.png",
-        "coingeckoId": "dogswap-token",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"

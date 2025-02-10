@@ -14,12 +14,12 @@
     },
     {
         "symbol": "WBTC",
-        "name": "Wrapped Bitcoin",
+        "name": "Boba Standard Bridged WBTC  Boba Networ",
         "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
         "decimals": 8,
         "chainId": 288,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1639129132128_3891051687439073.png",
-        "coingeckoId": "wrapped-bitcoin",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "openocean"
@@ -40,12 +40,26 @@
     },
     {
         "symbol": "WETH",
-        "name": "WETH",
+        "name": "Boba Standard Bridged WETH  Boba Networ",
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
         "decimals": 18,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1640068479467_666268388062502.png",
-        "coingeckoId": "weth",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bobaeth/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png",
+        "coingeckoId": "boba-standard-bridged-weth-boba-network",
+        "listedIn": [
+            "coingecko",
+            "openocean",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "FRAX",
+        "name": "Frax",
+        "address": "0x7562F525106F5d54E891e005867Bf489B5988CD9",
+        "decimals": 18,
+        "chainId": 288,
+        "logoURI": "https://s3.openocean.finance/token_logos/logos/1640069122683_8257756398337042.png",
+        "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
             "openocean"
@@ -53,12 +67,12 @@
     },
     {
         "symbol": "USDC",
-        "name": "USD Coin",
+        "name": "Bridged USDC",
         "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
         "decimals": 6,
         "chainId": 288,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1639126999624_564648928450491.png",
-        "coingeckoId": "usd-coin",
+        "coingeckoId": "bridged-usdc",
         "listedIn": [
             "coingecko",
             "openocean"
@@ -79,25 +93,12 @@
     },
     {
         "symbol": "USDT",
-        "name": "Tether",
+        "name": "Bridged USDT",
         "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
         "decimals": 6,
         "chainId": 288,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1639128907722_5976524470347457.png",
-        "coingeckoId": "tether",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "symbol": "OLO",
-        "name": "OolongSwap",
-        "address": "0x5008F837883EA9a07271a1b5eB0658404F5a9610",
-        "decimals": 18,
-        "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639126902514_02776739497922076.png",
-        "coingeckoId": "oolongswap",
+        "coingeckoId": "bridged-usdt",
         "listedIn": [
             "coingecko",
             "openocean"

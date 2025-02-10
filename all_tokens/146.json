@@ -1,0 +1,422 @@
+[
+    {
+        "symbol": "TOONA",
+        "name": "toona",
+        "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/52036/thumb/pfpp.jpg?1732381221",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "DERP",
+        "name": "Derp",
+        "address": "0xe920d1DA9A4D59126dC35996Ea242d60EFca1304",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53307/thumb/DERP_TOKEN.png?1736066460",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "EQUAL",
+        "name": "Equalizer on Sonic",
+        "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53369/thumb/hq_png_icon_file.png?1736204170",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "GFI",
+        "name": "Gravity Finance",
+        "address": "0xbF5899166AC476370B3117c9256B7fc45624f4eA",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53375/thumb/gfi.jpg?1736225444",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "OS",
+        "name": "Origin Sonic",
+        "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53773/thumb/os-256x256.png?1737271726",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "STS",
+        "name": "Beets Staked Sonic",
+        "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/52937/thumb/token-beets-staked-sonic.png?1734712659",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "BRUSH",
+        "name": "Paintswap",
+        "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/18579/thumb/ps-cmc-200x200.png?1707862125",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FS",
+        "name": "FutureStarter",
+        "address": "0xBC0d0650412EF353D672c0Bbd12eFFF90591B251",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/19821/thumb/13237.png?1696519240",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SWPX",
+        "name": "SwapX",
+        "address": "0xA04BC7140c26fc9BB1F36B1A604C7A5a88fb0E70",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53530/thumb/IMG_6986.jpeg?1736579863",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "GOGLZ",
+        "name": "GOGGLES",
+        "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53257/thumb/goglz_2.png?1735902919",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WOS",
+        "name": "Wrapped Origin Sonic",
+        "address": "0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53774/thumb/wos-256x256.png?1737271865",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SACRA",
+        "name": "SACRA",
+        "address": "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53465/thumb/sacra_red-and-white-1200px.png?1736452758",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "ECO",
+        "name": "Sonic Eco",
+        "address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53346/thumb/eco_logo_100x100_0xb8a32897016c1b2ee0797090162eafe58f032795.png?1736163012",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "ANON",
+        "name": "Hey Anon",
+        "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/ICON.png?1734862960",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "METRO",
+        "name": "Metropolis",
+        "address": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/54040/thumb/metropolis_logo_square.png?1738076053",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "HEDGY",
+        "name": "Hedgy the hedgehog",
+        "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/51742/thumb/cVKJGU_W_400x400.jpg?1731923818",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "NAVI",
+        "name": "Navigator Exchange",
+        "address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/28547/thumb/navi.jpg?1736302094",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "CONK",
+        "name": "ShibaPoconk",
+        "address": "0x63A522f6E7D5B96F7aeBB74d2648545E9e14078D",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/29080/thumb/conk.png?1696528045",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "YOKO",
+        "name": "Yoko",
+        "address": "0x59524D5667B299c0813Ba3c99a11C038a3908fBC",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/54014/thumb/YOKOLOGO_9.png?1737974364",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WETH",
+        "name": "Bridged Wrapped Ether  Sonic ",
+        "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53332/thumb/weth_2.jpg?1736149977",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "INDI",
+        "name": "Indi",
+        "address": "0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/52926/thumb/photo_2024-12-12_12-50-37.jpg?1734706774",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "MOON",
+        "name": "Moon Bay",
+        "address": "0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53021/thumb/moonbay.png?1735003620",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SONIC",
+        "name": "Sonic",
+        "address": "0x446649F0727621BDbB76644B1910be2163b62a11",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53254/thumb/sonic-dyorswap.jpg?1735896701",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "TAILS",
+        "name": "Tails",
+        "address": "0x41211648C51AcB9A5F39A93C657e894A0bdB88e4",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53277/thumb/new_logo.png?1735923559",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SHADOW",
+        "name": "Shadow",
+        "address": "0x3333b97138D4b086720b5aE8A7844b1345a33333",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53747/thumb/tokenbg.png?1737180639",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "BEETS",
+        "name": "Beets",
+        "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53249/thumb/beets.png?1735873104",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDCE",
+        "name": "Sonic Bridged USDC e  Sonic ",
+        "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+        "decimals": 6,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53064/thumb/logo.png?1735179479",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "ATETH",
+        "name": "Atoll ETH  Sonic ",
+        "address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53797/thumb/IMG_7045.jpeg?1737477230",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "THC",
+        "name": "TinHatCat",
+        "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/35911/thumb/photo_2024-01-16_17-31-36-removebg-preview.png?1710180825",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FROQ",
+        "name": "FROQ",
+        "address": "0x131F5AE1CBfEFe8EFbDf93dA23fa4d39F14a817c",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/52976/thumb/frogcoin-export_256.png?1734885112",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WAGMI",
+        "name": "Wagmi",
+        "address": "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WHALE",
+        "name": "Whale Ecosystem",
+        "address": "0x068e9e009fDa970fA953E1f6a43D982cA991F4bA",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53500/thumb/2b3a9148-f517-4e6a-8fd2-968b296f1187.JPG?1736515208",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "FSONIC",
+        "name": "Fantomsonicinu",
+        "address": "0x05e31a691405d06708A355C029599c12d5da8b28",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/53278/thumb/VaSB8Eil_400x400.jpg?1735953637",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WS",
+        "name": "Wrapped Sonic",
+        "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/52857/thumb/wrapped_sonic.png?1734536585",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "AG",
+        "name": "Silver",
+        "address": "0x005851f943ee2957B1748957F26319e4f9EdeBC1",
+        "decimals": 18,
+        "chainId": 146,
+        "logoURI": "https://assets.coingecko.com/coins/images/52967/thumb/SS_logo.png?1734881325",
+        "coingeckoId": null,
+        "listedIn": [
+            "coingecko"
+        ]
+    }
+]

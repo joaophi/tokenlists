@@ -36,6 +36,18 @@
         ]
     },
     {
+        "symbol": "ELK",
+        "name": "Elk",
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "decimals": 18,
+        "chainId": 288,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "OMG",
         "name": "OMG Network",
         "address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
@@ -50,12 +62,12 @@
     },
     {
         "symbol": "WBTC",
-        "name": "Wrapped Bitcoin",
+        "name": "Boba Standard Bridged WBTC  Boba Networ",
         "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
         "decimals": 8,
         "chainId": 288,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1639129132128_3891051687439073.png",
-        "coingeckoId": "wrapped-bitcoin",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "openocean"
@@ -112,15 +124,16 @@
     },
     {
         "symbol": "WETH",
-        "name": "WETH",
+        "name": "Boba Standard Bridged WETH  Boba Networ",
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
         "decimals": 18,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1640068479467_666268388062502.png",
-        "coingeckoId": "weth",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bobaeth/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png",
+        "coingeckoId": "boba-standard-bridged-weth-boba-network",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "elkfinance"
         ]
     },
     {
@@ -177,7 +190,7 @@
         "address": "0x96821b258955587069F680729cD77369C0892B40",
         "decimals": 18,
         "chainId": 288,
-        "logoURI": "https://assets.coingecko.com/coins/images/28161/thumb/across-200x200.png?1668168201",
+        "logoURI": "https://assets.coingecko.com/coins/images/28161/thumb/across-200x200.png?1696527165",
         "coingeckoId": "across-protocol",
         "listedIn": [
             "coingecko"
@@ -226,8 +239,9 @@
         "decimals": 18,
         "chainId": 288,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1640069122683_8257756398337042.png",
-        "coingeckoId": null,
+        "coingeckoId": "frax",
         "listedIn": [
+            "coingecko",
             "openocean"
         ]
     },
@@ -257,12 +271,12 @@
     },
     {
         "symbol": "USDC",
-        "name": "USD Coin",
+        "name": "Bridged USDC",
         "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
         "decimals": 6,
         "chainId": 288,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1639126999624_564648928450491.png",
-        "coingeckoId": "usd-coin",
+        "coingeckoId": "bridged-usdc",
         "listedIn": [
             "coingecko",
             "openocean"
@@ -295,12 +309,12 @@
     },
     {
         "symbol": "USDT",
-        "name": "Tether",
+        "name": "Bridged USDT",
         "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
         "decimals": 6,
         "chainId": 288,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1639128907722_5976524470347457.png",
-        "coingeckoId": "tether",
+        "coingeckoId": "bridged-usdt",
         "listedIn": [
             "coingecko",
             "openocean"
@@ -313,9 +327,8 @@
         "decimals": 18,
         "chainId": 288,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1639126902514_02776739497922076.png",
-        "coingeckoId": "oolongswap",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean"
         ]
     },
@@ -341,6 +354,18 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean"
+        ]
+    },
+    {
+        "symbol": "MIMATIC",
+        "name": "MAI",
+        "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+        "decimals": 18,
+        "chainId": 288,
+        "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1696514916",
+        "coingeckoId": "mimatic",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

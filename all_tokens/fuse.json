@@ -12,18 +12,6 @@
         ]
     },
     {
-        "symbol": "agEUR",
-        "name": "agEUR",
-        "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-        "decimals": 18,
-        "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ELK",
         "name": "Elk",
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -44,20 +32,7 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "fuseswap",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "fUSD",
-        "name": "Fuse Dollar",
-        "address": "0xd0ce1b4A349C35e61Af02f5971e71ac502441E49",
-        "decimals": 18,
-        "chainId": 122,
-        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0xd0ce1b4a349c35e61af02f5971e71ac502441e49/4db7f2d35e6ae655690aeb75dbdfd99a.png",
-        "coingeckoId": "fuse-dollar",
-        "listedIn": [
-            "lifinance"
+            "fuseswap"
         ]
     },
     {
@@ -67,11 +42,10 @@
         "decimals": 18,
         "chainId": 122,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png",
-        "coingeckoId": "weth",
+        "coingeckoId": "bridged-wrapped-ether-voltage-finance",
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -94,11 +68,10 @@
         "decimals": 6,
         "chainId": 122,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png",
-        "coingeckoId": "tether",
+        "coingeckoId": "bridged-usdt",
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -113,7 +86,18 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "fUSDv3",
+        "name": "Fuse Dollar V3",
+        "address": "0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0xCE86a1cf3cFf48139598De6bf9B1dF2E0f79F86F/logo.png",
+        "coingeckoId": "fuse-dollar",
+        "listedIn": [
             "elkfinance"
         ]
     },
@@ -128,7 +112,6 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -143,7 +126,6 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -156,8 +138,7 @@
         "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "fuseswap",
-            "lifinance"
+            "fuseswap"
         ]
     },
     {
@@ -183,20 +164,31 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
     {
-        "symbol": "BTZ",
-        "name": "Bitazza Token on Fuse",
-        "address": "0x7641d492c17795Fb4cbaa8DF99116c9c482C81a8",
+        "symbol": "FOO",
+        "name": "Foo",
+        "address": "0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9",
         "decimals": 18,
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x7641d492c17795Fb4cbaa8DF99116c9c482C81a8/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance"
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DC",
+        "name": "Dummie Coin V2",
+        "address": "0x6d2A05948ED279f8A0ca532fC1A2a7767300C46E",
+        "decimals": 9,
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x6d2A05948ED279f8A0ca532fC1A2a7767300C46E/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
         ]
     },
     {
@@ -206,11 +198,10 @@
         "decimals": 18,
         "chainId": 122,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png",
-        "coingeckoId": "wbnb",
+        "coingeckoId": "fuse-bridged-wbnb-fuse",
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -221,10 +212,9 @@
         "decimals": 18,
         "chainId": 122,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png",
-        "coingeckoId": "binance-usd",
+        "coingeckoId": "bridged-busd",
         "listedIn": [
-            "fuseswap",
-            "lifinance"
+            "fuseswap"
         ]
     },
     {
@@ -234,11 +224,10 @@
         "decimals": 6,
         "chainId": 122,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png",
-        "coingeckoId": "usd-coin",
+        "coingeckoId": "bridged-usdc",
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -251,8 +240,7 @@
         "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png",
         "coingeckoId": "dogelon-mars",
         "listedIn": [
-            "fuseswap",
-            "lifinance"
+            "fuseswap"
         ]
     },
     {
@@ -264,20 +252,7 @@
         "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/luna.png",
         "coingeckoId": null,
         "listedIn": [
-            "fuseswap",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "WETH",
-        "name": "Wrapped Ether",
-        "address": "0x5622F6dC93e08a8b717B149677930C38d5d50682",
-        "decimals": 18,
-        "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
+            "fuseswap"
         ]
     },
     {
@@ -286,10 +261,10 @@
         "address": "0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8",
         "decimals": 18,
         "chainId": 122,
-        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x4e69ae0cd024754655b4ef74f24a8dcb39ba07e8/d03f1f13bd1ac88afab64a4bfa869839.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance"
+            "elkfinance"
         ]
     },
     {
@@ -299,10 +274,9 @@
         "decimals": 2,
         "chainId": 122,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "gooddollar",
         "listedIn": [
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -317,7 +291,6 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -346,29 +319,16 @@
         ]
     },
     {
-        "symbol": "VOLT",
-        "name": "VoltToken",
-        "address": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
-        "decimals": 18,
-        "chainId": 122,
-        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4/27c073bbd2e4ab85dd8272331f91b8b8.png",
-        "coingeckoId": "fusefi",
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "WBTC",
         "name": "Wrapped BTC",
         "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
         "decimals": 8,
         "chainId": 122,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png",
-        "coingeckoId": "wrapped-bitcoin",
+        "coingeckoId": "fuse-bridged-wbtc-fuse",
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -383,7 +343,6 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -394,34 +353,21 @@
         "decimals": 18,
         "chainId": 122,
         "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png",
-        "coingeckoId": "beefy-finance",
+        "coingeckoId": null,
         "listedIn": [
-            "fuseswap",
-            "lifinance"
+            "fuseswap"
         ]
     },
     {
-        "symbol": "AMP",
-        "name": "Ampere",
-        "address": "0x2b09179D26FdDB27a24ee25328890791c7A984c2",
-        "decimals": 18,
+        "symbol": "DMK",
+        "name": "Dummie Kid V2",
+        "address": "0x2DFDab3253051f6857580D9a360C531CBF40eB4d",
+        "decimals": 9,
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2b09179D26FdDB27a24ee25328890791c7A984c2/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x2DFDab3253051f6857580D9a360C531CBF40eB4d/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "USDC",
-        "name": "USD Coin",
-        "address": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
-        "decimals": 6,
-        "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
+            "elkfinance"
         ]
     },
     {
@@ -430,13 +376,11 @@
         "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
         "decimals": 18,
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
+        "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-dollar.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "fuseswap",
-            "lifinance",
-            "elkfinance"
+            "fuseswap"
         ]
     },
     {
@@ -448,8 +392,7 @@
         "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/ust.png",
         "coingeckoId": null,
         "listedIn": [
-            "fuseswap",
-            "lifinance"
+            "fuseswap"
         ]
     },
     {
@@ -459,11 +402,10 @@
         "decimals": 18,
         "chainId": 122,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png",
-        "coingeckoId": "fuse-network-token",
+        "coingeckoId": "wrapped-fuse",
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -478,7 +420,6 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -493,20 +434,7 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
-            "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "FUSE",
-        "name": "FUSE",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "chainId": 122,
-        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/fuse/6342e1cc4646e22d1e91956fdee942eb.png",
-        "coingeckoId": "fuse-network-token",
-        "listedIn": [
-            "lifinance"
         ]
     }
 ]

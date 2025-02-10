@@ -13,6 +13,18 @@
         ]
     },
     {
+        "symbol": "ELK",
+        "name": "Elk",
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "CREAL",
         "name": "Celo Real  cREAL ",
         "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
@@ -31,21 +43,35 @@
         "address": "0xd252E98C5B6ea1E29A7e2789A9eC0493707A60B9",
         "decimals": 18,
         "chainId": 42220,
-        "logoURI": "https://assets.coingecko.com/coins/images/16530/thumb/KRW_token_logo_200x200.png?1624343058",
+        "logoURI": "https://assets.coingecko.com/coins/images/16530/thumb/KRW_token_logo_200x200.png?1696516093",
         "coingeckoId": "krown",
         "listedIn": [
             "coingecko"
         ]
     },
     {
+        "symbol": "USDC",
+        "name": "USDC",
+        "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
+        "decimals": 6,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png",
+        "coingeckoId": "usd-coin",
+        "listedIn": [
+            "coingecko",
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "TFBX",
-        "name": "TrueFeedBack New",
+        "name": "Truefeedback",
         "address": "0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png",
         "coingeckoId": null,
         "listedIn": [
+            "coingecko",
             "ubeswap"
         ]
     },
@@ -67,10 +93,22 @@
         "address": "0xae978582DE8cA83A53Eb1d8f879Ba854895f96b1",
         "decimals": 18,
         "chainId": 42220,
-        "logoURI": "https://assets.coingecko.com/coins/images/29576/thumb/tgs.png?1679741086",
+        "logoURI": "https://assets.coingecko.com/coins/images/29576/thumb/tgs.png?1696528515",
         "coingeckoId": "tegisto",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "OLAS",
+        "name": "Autonolas",
+        "address": "0xaCFfAe8e57Ec6E394Eb1b41939A8CF7892DbDc51",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_OLAS.png",
+        "coingeckoId": "autonolas",
+        "listedIn": [
+            "ubeswap"
         ]
     },
     {
@@ -95,6 +133,18 @@
         "coingeckoId": null,
         "listedIn": [
             "ubeswap"
+        ]
+    },
+    {
+        "symbol": "BRLA",
+        "name": "BRLA Digital BRLA",
+        "address": "0xFECB3F7c54E2CAAE9dC6Ac9060A822D47E053760",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://assets.coingecko.com/coins/images/40062/thumb/IconGreen400.png?1725459580",
+        "coingeckoId": "brla-digital-brla",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -135,11 +185,11 @@
     },
     {
         "symbol": "AXLUSDC",
-        "name": "Bridged USD Coin  Axelar ",
+        "name": "Axelar Bridged USDC",
         "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
         "decimals": 6,
         "chainId": 42220,
-        "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1690776252",
+        "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1696525548",
         "coingeckoId": "axlusdc",
         "listedIn": [
             "coingecko"
@@ -235,12 +285,12 @@
     },
     {
         "symbol": "WBTC",
-        "name": "Wrapped Bitcoin",
+        "name": "Bridged WBTC",
         "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cBTC.png",
-        "coingeckoId": "wrapped-bitcoin",
+        "coingeckoId": "bridged-wbtc",
         "listedIn": [
             "coingecko",
             "sushiswap",
@@ -270,6 +320,18 @@
         "coingeckoId": null,
         "listedIn": [
             "ubeswap"
+        ]
+    },
+    {
+        "symbol": "EURA",
+        "name": "EURA",
+        "address": "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR-4.png?1710726218",
+        "coingeckoId": "ageur",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -303,7 +365,7 @@
         "address": "0xB9C8F0d3254007eE4b98970b94544e473Cd610EC",
         "decimals": 18,
         "chainId": 42220,
-        "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018",
+        "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1696514916",
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko"
@@ -354,9 +416,8 @@
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PREMIO.png",
-        "coingeckoId": "premio",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "ubeswap"
         ]
     },
@@ -437,6 +498,30 @@
         ]
     },
     {
+        "symbol": "COMMONS",
+        "name": "Commons Protocol",
+        "address": "0x7b97031b6297bc8e030B07Bd84Ce92FEa1B00c3e",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_COMMONS.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "ubeswap"
+        ]
+    },
+    {
+        "symbol": "MENTO",
+        "name": "MENTO",
+        "address": "0x7FF62f59e3e89EA34163EA1458EEBCc81177Cfb6",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://assets.coingecko.com/coins/images/38958/thumb/MENTO_TOKEN_icon_200.png?1719691251",
+        "coingeckoId": "mento",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "MCELO",
         "name": "mCELO",
         "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
@@ -472,6 +557,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "elkfinance",
             "ubeswap"
         ]
     },
@@ -504,15 +590,27 @@
         ]
     },
     {
-        "symbol": "MCELO",
-        "name": "Moola CELO AToken",
+        "symbol": "UBE",
+        "name": "Ubeswap",
+        "address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png",
+        "coingeckoId": "ubeswap-2",
+        "listedIn": [
+            "coingecko",
+            "ubeswap"
+        ]
+    },
+    {
+        "symbol": "mCELO",
+        "name": "Moola CELO",
         "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mcelo.jpg",
-        "coingeckoId": "moola-celo-atoken",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap"
         ]
     },
@@ -530,14 +628,15 @@
         ]
     },
     {
-        "symbol": "ETH",
-        "name": "Portal Ether",
+        "symbol": "WETH",
+        "name": "Wormhole Bridged WETH  Celo ",
         "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png",
-        "coingeckoId": null,
+        "coingeckoId": "wormhole-bridged-weth-celo",
         "listedIn": [
+            "coingecko",
             "ubeswap"
         ]
     },
@@ -555,26 +654,26 @@
     },
     {
         "symbol": "BIFI",
-        "name": "Beefy",
+        "name": "Beefy Finance",
         "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
-        "coingeckoId": "beefy-finance",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap"
         ]
     },
     {
-        "symbol": "G$",
+        "symbol": "G",
         "name": "GoodDollar",
         "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_G$.png",
-        "coingeckoId": null,
+        "coingeckoId": "gooddollar",
         "listedIn": [
+            "coingecko",
             "ubeswap"
         ]
     },
@@ -585,10 +684,47 @@
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F/logo.png",
-        "coingeckoId": "celolaunch",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap"
+        ]
+    },
+    {
+        "symbol": "CHAR",
+        "name": "Biochar",
+        "address": "0x50E85c754929840B58614F48e29C64BC78C58345",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://assets.coingecko.com/coins/images/38094/thumb/char_logo_toucan.png?1716488453",
+        "coingeckoId": "biochar",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDGLO",
+        "name": "Glo Dollar",
+        "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDGLO.png",
+        "coingeckoId": "glo-dollar",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "ubeswap"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether",
+        "address": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
+        "decimals": 6,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDT.png",
+        "coingeckoId": "tether",
+        "listedIn": [
+            "coingecko",
+            "ubeswap"
         ]
     },
     {
@@ -614,17 +750,18 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "elkfinance",
             "ubeswap"
         ]
     },
     {
         "symbol": "PACT",
-        "name": "impactMarket",
+        "name": "impactMarket  OLD ",
         "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
         "decimals": 18,
         "chainId": 42220,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PACT.png",
-        "coingeckoId": "impactmarket",
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_old-PACT.png",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "sushiswap",
@@ -632,27 +769,39 @@
         ]
     },
     {
-        "symbol": "CSTAR",
+        "symbol": "CKES",
+        "name": "Celo Kenyan Shilling",
+        "address": "0x456a3D042C0DbD3db53D5489e98dFb038553B0d0",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://assets.coingecko.com/coins/images/38052/thumb/cKES_200x200.png?1716403445",
+        "coingeckoId": "celo-kenyan-shilling",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "cStar",
         "name": "CeloStarter",
         "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cStar.png",
-        "coingeckoId": "celostarter",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "ubeswap"
         ]
     },
     {
-        "symbol": "USDCet",
-        "name": "Portal USDC from Ethereum",
+        "symbol": "USDCET",
+        "name": "Bridged USD Coin  Wormhole Ethereum ",
         "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
         "decimals": 6,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDCet.png",
-        "coingeckoId": null,
+        "coingeckoId": "usd-coin-wormhole-from-ethereum",
         "listedIn": [
+            "coingecko",
             "ubeswap"
         ]
     },
@@ -682,6 +831,19 @@
         ]
     },
     {
+        "symbol": "PACT",
+        "name": "PACT",
+        "address": "0x2b9018CeB303D540BbF08De8e7De64fDDD63396C",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PACT.png",
+        "coingeckoId": "impactmarket-2",
+        "listedIn": [
+            "coingecko",
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "WMATIC",
         "name": "Optics WMATIC",
         "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
@@ -694,13 +856,13 @@
         ]
     },
     {
-        "symbol": "WETH",
-        "name": "WETH",
+        "symbol": "CETH",
+        "name": "Wrapped cETH",
         "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cETH.svg",
-        "coingeckoId": "weth",
+        "coingeckoId": "wrapped-ceth",
         "listedIn": [
             "coingecko",
             "sushiswap",
@@ -784,14 +946,13 @@
     },
     {
         "symbol": "ARI",
-        "name": "Ari Swap",
+        "name": "Ariswap",
         "address": "0x20677d4f3d0F08e735aB512393524A3CfCEb250C",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ARI.png",
-        "coingeckoId": "ari-swap",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "ubeswap"
         ]
     },
@@ -801,7 +962,7 @@
         "address": "0x1d18d0386F51ab03E7E84E71BdA1681EbA865F1f",
         "decimals": 18,
         "chainId": 42220,
-        "logoURI": "https://assets.coingecko.com/coins/images/22603/thumb/200x200.png?1642162597",
+        "logoURI": "https://assets.coingecko.com/coins/images/22603/thumb/200x200.png?1696521919",
         "coingeckoId": "jumptoken",
         "listedIn": [
             "coingecko"
@@ -871,6 +1032,18 @@
         ]
     },
     {
+        "symbol": "PUSO",
+        "name": "PUSO",
+        "address": "0x105d4A9306D2E55a71d2Eb95B81553AE1dC20d7B",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://assets.coingecko.com/coins/images/50608/thumb/PUSO_transparent.png?1728473971",
+        "coingeckoId": "puso",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "stabilUSD",
         "name": "Stabilite USD",
         "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
@@ -880,18 +1053,6 @@
         "coingeckoId": null,
         "listedIn": [
             "ubeswap"
-        ]
-    },
-    {
-        "symbol": "TFBX",
-        "name": "Truefeedback",
-        "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
-        "decimals": 18,
-        "chainId": 42220,
-        "logoURI": "https://assets.coingecko.com/coins/images/8842/thumb/5rd7a55q_400x400.png?1562902557",
-        "coingeckoId": "truefeedbackchain",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -908,11 +1069,11 @@
     },
     {
         "symbol": "UBE",
-        "name": "Ubeswap",
+        "name": "Ubeswap  OLD ",
         "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
         "decimals": 18,
         "chainId": 42220,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png",
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_old-UBE.png",
         "coingeckoId": "ubeswap",
         "listedIn": [
             "coingecko",
@@ -922,14 +1083,13 @@
     },
     {
         "symbol": "POOF",
-        "name": "PoofCash",
+        "name": "Poof",
         "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_POOF.png",
-        "coingeckoId": "poofcash",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "ubeswap"
         ]
     }

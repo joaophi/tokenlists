@@ -1,0 +1,62 @@
+[
+    {
+        "symbol": "LSK",
+        "name": "Lisk",
+        "address": "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24",
+        "decimals": 18,
+        "chainId": 1135,
+        "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "USDC.e",
+        "name": "Bridged USDC (Lisk)",
+        "address": "0xF242275d3a6527d877f2c927a82D9b057609cc71",
+        "decimals": 6,
+        "chainId": 1135,
+        "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "TRB",
+        "name": "Tellor",
+        "address": "0x665060707c3Ea3c31b3eaBaD7F409072446E1D50",
+        "decimals": 18,
+        "chainId": 1135,
+        "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0x05D032ac25d322df992303dCa074EE7392C117b9",
+        "decimals": 6,
+        "chainId": 1135,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+        "decimals": 8,
+        "chainId": 1135,
+        "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    }
+]
