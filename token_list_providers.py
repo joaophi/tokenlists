@@ -134,6 +134,7 @@ class CoinGeckoTokenLists(TokenListProvider):
         "-1": "solana",
         "9001": "evmos",
         "2020": "ronin",
+        "146": "sonic"
         # sora
     }
     absent_chain_id = True
