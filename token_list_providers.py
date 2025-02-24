@@ -134,7 +134,8 @@ class CoinGeckoTokenLists(TokenListProvider):
         "-1": "solana",
         "9001": "evmos",
         "2020": "ronin",
-        "146": "sonic"
+        "146": "sonic",
+        "1329": "sei-v2"
         # sora
     }
     absent_chain_id = True
@@ -224,6 +225,7 @@ class OpenOceanTokenLists(TokenListProvider):
         "100": "xdai-gnosis",
         "128": "heco",
         "1": "ethereum",
+        "1329": "sei"
     }
     _by_chain_id = True
     absent_chain_id = True

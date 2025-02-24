@@ -48,6 +48,8 @@ def get_coingecko_ids() -> dict[str, dict[Address, str]]:
         "-1": "solana",
         "9001": "evmos",
         "2020": "ronin",
+        '4689': "iotx",
+        "1329": "sei-v2"
     }
     coingecko_platform_to_chain_id = {v: k for k, v in chain_id_to_coingecko_platform.items()}
     coins = httpx.get('https://api.coingecko.com/api/v3/coins/list', params={'include_platform': True}).json()
